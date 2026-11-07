@@ -1,1 +1,121 @@
-IyEvdXNyL2Jpbi9lbnYgYmFzaAojIHBsYXlfdGVzdC5zaCDigJQgZW5kLXRvLWVuZCB0ZXN0IGZvciBMaW5lLXVwIEZpdmUuIFJ1biBJTlNJREUgdGhlIGdpZ2JveCBjb250YWluZXI6CiMgICBkb2NrZXIgcnVuIC0tcm0gLS1tZW1vcnkgMmcgLS1jcHVzIDIgLS1yZWFkLW9ubHkgLS10bXBmcyAvdG1wIC0tdG1wZnMgL2hvbWUvbm9kZS8uY2FjaGUgXAojICAgICAtdiBnYW1ld29yazovd29yayAtdyAvd29yayBnaWdib3g6MiBiYXNoIHRlc3RzL3BsYXlfdGVzdC5zaApzZXQgLXUKY2QgIiQoZGlybmFtZSAiJDAiKS8uLiIKUE9SVD0ke1RFU1RfUE9SVDotODc5MX0KQkFTRT0iaHR0cDovLzEyNy4wLjAuMToke1BPUlR9IgpQQVNTPTA7IEZBSUw9MApQSURTPSgpClNBWSgpeyBwcmludGYgJ1xuPT0gJXMgPT1cbicgIiQqIjsgfQpPSygpeyBwcmludGYgJ1BBU1M6ICVzXG4nICIkKiI7IFBBU1M9JCgoUEFTUysxKSk7IH0KQkFEKCl7IHByaW50ZiAnRkFJTDogJXNcbicgIiQqIjsgRkFJTD0kKChGQUlMKzEpKTsgfQojIGpzb24tZXZhbDogZWNobyA8anNvbj4gfCBqZ2V0ICc8SlMgZXhwciB1c2luZyBvPicgIChvID0gcGFyc2VkIGpzb247ICIueCIgc2hvcnRoYW5kIHRvbykKamdldCgpeyBub2RlIC1lICdsZXQgZD0iIjtwcm9jZXNzLnN0ZGluLm9uKCJkYXRhIixjPT5kKz1jKTtwcm9jZXNzLnN0ZGluLm9uKCJlbmQiLCgpPT57dHJ5e2NvbnN0IG89SlNPTi5wYXJzZShkKTtjb25zdCBzcmM9cHJvY2Vzcy5hcmd2WzFdO2NvbnN0IGV4cHI9c3JjLnN0YXJ0c1dpdGgoIi4iKT8oIm8iK3NyYyk6c3JjO2NvbnN0IHY9KG5ldyBGdW5jdGlvbigibyIsInJldHVybiAoIitleHByKyIpIikpKG8pO2NvbnNvbGUubG9nKHY9PT11bmRlZmluZWQ/Ij8iOnYpO31jYXRjaChlKXtjb25zb2xlLmxvZygiUEFSU0VfRVJSOiIrZS5tZXNzYWdlKyJ8IitkLnNsaWNlKDAsMjAwKSk7fX0pOycgIiQxIjsgfQoKY2xlYW51cCgpeyBTQVkgImNsZWFudXAiOyBmb3IgcGlkIGluICIke1BJRFNbQF06LX0iOyBkbyBraWxsICIkcGlkIiAyPi9kZXYvbnVsbDsgZG9uZTsgc2xlZXAgMC41OyBmb3IgcGlkIGluICIke1BJRFNbQF06LX0iOyBkbyBraWxsIC05ICIkcGlkIiAyPi9kZXYvbnVsbDsgZG9uZTsgcm0gLXJmICIkTE9HRElSIjsgfQp0cmFwIGNsZWFudXAgRVhJVAoKc3RhcnRfc2VydmVyKCl7ICMgYXJnczogZXh0cmEgZW52IHBhc3NlZCBpbmxpbmUgdmlhIGBlbnZgCiAgUkFURT0iJHsxOi0xMDAwMDB9IgogIFBPUlQ9JFBPUlQgUkFURV9MSU1JVF9QRVJfTUlOPSRSQVRFIG5vZGUgYXBwL3NlcnZlci5qcyA+PiIkTE9HRElSL3NlcnZlci5sb2ciIDI+JjEgJgogIFBJRFMrPSgkISkKICBmb3IgaSBpbiAkKHNlcSAxIDQwKTsgZG8KICAgIFsgIiQoY3VybCAtcyAtbyAvZGV2L251bGwgLXcgJyV7aHR0cF9jb2RlfScgLVggUE9TVCAkQkFTRS9hcGkvaGVhbHRoeikiID0gIjIwMCIgXSAmJiByZXR1cm4gMAogICAgc2xlZXAgMC4yNQogIGRvbmUKICBCQUQgInNlcnZlciBkaWQgbm90IGNvbWUgdXAiOyBjYXQgIiRMT0dESVIvc2VydmVyLmxvZyI7IGV4aXQgMQp9CgpMT0dESVI9JChta3RlbXAgLWQgL3dvcmsvdmFyLXRlc3Rsb2dzLlhYWFggMj4vZGV2L251bGwgfHwgbWt0ZW1wIC1kKQpTQVkgInBoYXNlIEE6IGJvb3Qgd2l0aCBkZWZhdWx0IHJhdGUgbGltaXQgKDYwL21pbiksIGNoZWNrIGluZnJhICsgdmFsaWRhdGlvbiArIHJlc2lnbiArIDQyOSIKc3RhcnRfc2VydmVyIDYwCgpIPSQoY3VybCAtcyAtWCBQT1NUICRCQVNFL2FwaS9oZWFsdGh6KQpbICIkSCIgPSAneyJvayI6dHJ1ZX0nIF0gJiYgT0sgImhlYWx0aHogJEgiIHx8IEJBRCAiaGVhbHRoeiBnb3Q6ICRIIgoKR1I9JChjdXJsIC1zIC1YIFBPU1QgJEJBU0UvYXBpL2dhbWVzIC1IICdjb250ZW50LXR5cGU6IGFwcGxpY2F0aW9uL2pzb24nIC1kICd7Imh1bWFucyI6Miwic2l6ZSI6MTMsInBsYXllcnMiOjR9JykKUkM9JChlY2hvICIkR1IiIHwgamdldCAnLmNvZGUnKTsgUlQwPSQoZWNobyAiJEdSIiB8IGpnZXQgJy5zZWF0c1swXS5zZWF0VG9rZW4nKTsgUlQxPSQoZWNobyAiJEdSIiB8IGpnZXQgJy5zZWF0c1sxXS5zZWF0VG9rZW4nKQpbIC1uICIkUkMiIF0gJiYgWyAkeyNSQ30gLWVxIDYgXSAmJiBPSyAiY3JlYXRlIGdhbWUgY29kZT0kUkMgc2VhdHMgb2siIHx8IEJBRCAiY3JlYXRlIGdvdDogJEdSIgoKIyB2YWxpZGF0aW9uOiBiYWQgc2VhdFRva2VuIC0+IDQwMQpDPSQoY3VybCAtcyAtbyAvZGV2L251bGwgLXcgJyV7aHR0cF9jb2RlfScgLVggUE9TVCAkQkFTRS9hcGkvZ2FtZXMvJFJDL21vdmVzIC1IICJhdXRob3JpemF0aW9uOiBCZWFyZXIgMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMGRlYWQiIC1kICd7IngiOjUsInkiOjV9JykKWyAiJEMiID0gIjQwMSIgXSAmJiBPSyAiYmFkIHNlYXRUb2tlbiByZWplY3RlZCAoJEMpIiB8fCBCQUQgImJhZCB0b2tlbiBnb3QgJEMiCiMgdmFsaWRhdGlvbjogb3V0IG9mIGJvdW5kcyAtPiA0MDAKQz0kKGN1cmwgLXMgLW8gL2Rldi9udWxsIC13ICcle2h0dHBfY29kZX0nIC1YIFBPU1QgJEJBU0UvYXBpL2dhbWVzLyRSQy9tb3ZlcyAtSCAiYXV0aG9yaXphdGlvbjogQmVhcmVyICRSVDAiIC1kICd7IngiOjEzLCJ5IjowfScpClsgIiRDIiA9ICI0MDAiIF0gJiYgT0sgIm91dC1vZi1ib3VuZHMgcmVqZWN0ZWQgKCRDKSIgfHwgQkFEICJvb2IgZ290ICRDIgpDPSQoY3VybCAtcyAtbyAvZGV2L251bGwgLXcgJyV7aHR0cF9jb2RlfScgLVggUE9TVCAkQkFTRS9hcGkvZ2FtZXMvJFJDL21vdmVzIC1IICJhdXRob3JpemF0aW9uOiBCZWFyZXIgJFJUMCIgLWQgJ3sieCI6LTEsInkiOjd9JykKWyAiJEMiID0gIjQwMCIgXSAmJiBPSyAibmVnYXRpdmUgY29vcmQgcmVqZWN0ZWQgKCRDKSIgfHwgQkFEICJuZWcgZ290ICRDIgojIGZpcnN0IGxlZ2FsIG1vdmUgKHJlZCksIHRoZW4gbm90LXlvdXItdHVybiAtPiA0MDksIG9jY3VwaWVkIC0+IDR4eApDPSQoY3VybCAtcyAtbyAvZGV2L251bGwgLXcgJyV7aHR0cF9jb2RlfScgLVggUE9TVCAkQkFTRS9hcGkvZ2FtZXMvJFJDL21vdmVzIC1IICJhdXRob3JpemF0aW9uOiBCZWFyZXIgJFJUMCIgLWQgJ3sieCI6MTEsInkiOjExfScpClsgIiRDIiA9ICIyMDAiIF0gJiYgT0sgImxlZ2FsIG1vdmUgYWNjZXB0ZWQiIHx8IEJBRCAiZmlyc3QgbW92ZSBnb3QgJEMiCkM9JChjdXJsIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAtWCBQT1NUICRCQVNFL2FwaS9nYW1lcy8kUkMvbW92ZXMgLUggImF1dGhvcml6YXRpb246IEJlYXJlciAkUlQwIiAtZCAneyJ4IjoyLCJ5IjoyfScpClsgIiRDIiA9ICI0MDkiIF0gJiYgT0sgIndyb25nLXR1cm4gbW92ZSByZWplY3RlZCAoJEMpIiB8fCBCQUQgIndyb25nIHR1cm4gZ290ICRDIgpDPSQoY3VybCAtcyAtbyAvZGV2L251bGwgLXcgJyV7aHR0cF9jb2RlfScgLVggUE9TVCAkQkFTRS9hcGkvZ2FtZXMvJFJDL21vdmVzIC1IICJhdXRob3JpemF0aW9uOiBCZWFyZXIgJFJUMSIgLWQgJ3sieCI6MTEsInkiOjExfScpClsgIiR7QzowOjF9IiA9ICI0IiBdICYmIE9LICJvY2N1cGllZCBjZWxsIHJlamVjdGVkICgkQykiIHx8IEJBRCAib2NjdXBpZWQgZ290ICRDIgojIHB1YmxpYyB2aWV3IG11c3Qgbm90IGxlYWsgdG9rZW5zCmN1cmwgLXMgJEJBU0UvYXBpL2dhbWVzLyRSQyB8IGdyZXAgLXEgIiRSVDAiICYmIEJBRCAicHVibGljIHZpZXcgbGVha2VkIHNlYXRUb2tlbiIgfHwgT0sgInB1YmxpYyB2aWV3IGhhcyBubyB0b2tlbnMiCiMgcmVzaWduClI9JChjdXJsIC1zIC1YIFBPU1QgJEJBU0UvYXBpL2dhbWVzLyRSQy9yZXNpZ24gLUggImF1dGhvcml6YXRpb246IEJlYXJlciAkUlQxIikKVFVSTj0kKGVjaG8gIiRSIiB8IGpnZXQgJy50dXJuJykKUkVTPSQoZWNobyAiJFIiIHwgamdldCAnLnBsYXllcnNbMV0ucmVzaWduZWQnKQpbICIkUkVTIiA9ICJ0cnVlIiBdICYmIFsgIiRUVVJOIiAhPSAiYmx1ZSIgXSAmJiBPSyAicmVzaWduIG9rIChyZXNpZ25lZD0kUkVTIHR1cm49JFRVUk4pIiB8fCBCQUQgInJlc2lnbjogJFIiCkM9JChjdXJsIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAtWCBQT1NUICRCQVNFL2FwaS9nYW1lcy8kUkMvbW92ZXMgLUggImF1dGhvcml6YXRpb246IEJlYXJlciAkUlQxIiAtZCAneyJ4IjoxLCJ5IjoxfScpClsgIiR7QzowOjF9IiA9ICI0IiBdICYmIE9LICJyZXNpZ25lZCBzZWF0IGNhbm5vdCBtb3ZlICgkQykiIHx8IEJBRCAicmVzaWduZWQgbW92ZSBnb3QgJEMiCiMgcmF0ZSBsaW1pdDogYnVyc3QgcGFzdCA2MC9taW4gLT4gYXQgbGVhc3Qgb25lIDQyOQpDT0RFUz0kKGZvciBpIGluICQoc2VxIDEgNjEpOyBkbyBjdXJsIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9ICcgJEJBU0UvYXBpL2hlYWx0aHo7IGRvbmUpCmVjaG8gIiRDT0RFUyIgfCBncmVwIC1xIDQyOSAmJiBPSyAiYnVyc3Qgb3ZlciA2MC9taW4gaGl0IDQyOSIgfHwgQkFEICJubyA0MjkgaW4gYnVyc3Q6ICRDT0RFUyIKU0FZICJwaGFzZSBBIGRvbmUgKFBBU1M9JFBBU1MgRkFJTD0kRkFJTCkiOyBraWxsICR7UElEU1stMV19IDI+L2Rldi9udWxsOyB3YWl0ICR7UElEU1stMV19IDI+L2Rldi9udWxsOyBQSURTPSgke1BJRFNbQF06MDokeyNQSURTW0BdfS0xfSkKClNBWSAicGhhc2UgQjogNC1zZWF0IGdhbWUsIDIgc2VhdHMgPSBzYW1wbGUgYm90LCBwbGF5IHRvIGZpdmUtaW4tYS1yb3ciCnN0YXJ0X3NlcnZlciAxMDAwMDAKR1c9JChjdXJsIC1zIC1YIFBPU1QgJEJBU0UvYXBpL2dhbWVzIC1IICdjb250ZW50LXR5cGU6IGFwcGxpY2F0aW9uL2pzb24nIC1kICd7Imh1bWFucyI6Miwic2l6ZSI6MTMsInBsYXllcnMiOjQsInN0YXJ0Q29sb3IiOiJyZWQifScpCldDPSQoZWNobyAiJEdXIiB8IGpnZXQgJy5jb2RlJyk7IFdUPSQoZWNobyAiJEdXIiB8IGpnZXQgJ28uc2VhdHMubWFwKHM9PnMuc2VhdFRva2VuKS5qb2luKCIsIiknKQpUMD0kKGVjaG8gIiRXVCIgfCBjdXQgLWQsIC1mMSk7IFQxPSQoZWNobyAiJFdUIiB8IGN1dCAtZCwgLWYyKTsgVDI9JChlY2hvICIkV1QiIHwgY3V0IC1kLCAtZjMpOyBUMz0kKGVjaG8gIiRXVCIgfCBjdXQgLWQsIC1mNCkKQkY9JChlY2hvICIkR1ciIHwgamdldCAnLmJvdHNGaWxsJykKWyAiJEJGIiA9ICJ0cnVlIiBdICYmIE9LICJib3RzRmlsbD10cnVlIGZvciBodW1hbnM9MiAoc2VhdHMgMiwzID0gYm90KSIgfHwgQkFEICJib3RzRmlsbCBnb3QgJEJGIgoKbm9kZSBib3Qvc2FtcGxlX2JvdC5qcyAtLXVybCAkQkFTRSAtLWNvZGUgJFdDIC0tdG9rZW4gJFQyIC0tcG9sbCAxMjAwICYgUElEUys9KCQhKQpub2RlIGJvdC9zYW1wbGVfYm90LmpzIC0tdXJsICRCQVNFIC0tY29kZSAkV0MgLS10b2tlbiAkVDMgLS1wb2xsIDEyMDAgJiBQSURTKz0oJCEpCm5vZGUgdGVzdHMvY2xpZW50X3BsYXllci5qcyAtLXVybCAkQkFTRSAtLWNvZGUgJFdDIC0tdG9rZW4gJFQwIC0tc2VhdCAwIC0tZnJpZW5kbHkgYmx1ZSAtLXBvbGwgNzAwIC0tcGxhbiAiMTEsMjsxMSwzOzExLDQ7OCwxOzksMTsxMCwxOzExLDEiICYgUElEUys9KCQhKQpub2RlIHRlc3RzL2NsaWVudF9wbGF5ZXIuanMgLS11cmwgJEJBU0UgLS1jb2RlICRXQyAtLXRva2VuICRUMSAtLXNlYXQgMSAtLWZyaWVuZGx5IHJlZCAtLXBvbGwgNzAwIC0tcGxhbiAiMCwwOzEsMDsyLDA7MywwOzQsMDs1LDAiICYgUElEUys9KCQhKQoKIyByZWQgcGxhbnMgYSBjb3JuZXIgZG91YmxlLUZPVVI6IHZlcnRpY2FsICgxMSwxLi40KSArIGhvcml6b250YWwgKDgsMS4uMTEsMSkgdmlhIGludGVyc2VjdGlvbiAoMTEsMSk7CiMgY29tcGxldGlvbiBjZWxscyBhcmUgKDExLDApLCgxMSw1KSwoNywxKSwoMTIsMSkg4oCUIHRoZSB0d28gYm90cyBjYW4gc3RvcCBvbmx5IHR3byBvZiBmb3VyLgpmb3IgaSBpbiAkKHNlcSAxIDI0MCk7IGRvCiAgU1Q9JChjdXJsIC1zICRCQVNFL2FwaS9nYW1lcy8kV0MpCiAgU1RUPSQoZWNobyAiJFNUIiB8IGpnZXQgJy5zdGF0dXMnKTsgTVY9JChlY2hvICIkU1QiIHwgamdldCAnLm1vdmVObycpCiAgWyAiJFNUVCIgIT0gInBsYXlpbmciIF0gJiYgYnJlYWsKICBzbGVlcCAwLjUKZG9uZQplY2hvICJmaW5hbCBzdGF0ZTogc3RhdHVzPSRTVFQgbW92ZU5vPSRNViIKWyAiJFNUVCIgPSAicmVkIHdpbnMiIF0gJiYgT0sgImZpdmUtaW4tYS1yb3cgZGV0ZWN0ZWQ6ICRTVFQiIHx8IEJBRCAiZXhwZWN0ZWQgJ3JlZCB3aW5zJywgZ290ICckU1RUJyIKV0w9JChlY2hvICIkU1QiIHwgamdldCAnby53aW5MaW5lP28ud2luTGluZS5sZW5ndGg6MCcpOyBbICIkV0wiIC1nZSA1IF0gMj4vZGV2L251bGwgJiYgT0sgIndpbkxpbmUgaGlnaGxpZ2h0IGxlbj0kV0wiIHx8IEJBRCAid2luTGluZT0kV0wiCgpTQVkgInJlcGxheSBjb21wbGV0ZW5lc3MiClJQPSQoY3VybCAtcyAkQkFTRS9hcGkvcmVwbGF5LyRXQykKUkg9JChlY2hvICIkUlAiIHwgamdldCAnby5oaXN0b3J5Lmxlbmd0aCcpOyBSTT0kKGVjaG8gIiRSUCIgfCBqZ2V0ICcubW92ZU5vJykKWyAiJFJIIiA9ICIkTVYiIF0gJiYgT0sgInJlcGxheSBoaXN0b3J5PSRSSCA9PSBtb3ZlTm89JFJNIiB8fCBCQUQgInJlcGxheSBoaXN0ICRSSCAhPSAkTVYiCkhBU0FUPSQoZWNobyAiJFJQIiB8IGpnZXQgJ28uaGlzdG9yeS5ldmVyeShoPT5oLmF0JiZoLmNvbG9yJiZoLnNlYXQhPT11bmRlZmluZWQpJykKWyAiJEhBU0FUIiA9ICJ0cnVlIiBdICYmIE9LICJoaXN0b3J5IGVudHJpZXMgY2Fycnkgc2VhdC9jb2xvci9hdCIgfHwgQkFEICJoaXN0b3J5IGZpZWxkcyBtaXNzaW5nOiAkSEFTQVQiCgpTQVkgImxlYWRlcmJvYXJkIgpMQj0kKGN1cmwgLXMgJEJBU0UvYXBpL2xlYWRlcmJvYXJkKQplY2hvICJsZWFkZXJib2FyZDogJExCIgpMUj0kKGVjaG8gIiRMQiIgfCBqZ2V0ICcoby5jb3VudHMucmVkfHwwKT49MScpClsgIiRMUiIgPSAidHJ1ZSIgXSAmJiBPSyAibGVhZGVyYm9hcmQgcmVkIHdpbnMgPj0gMSIgfHwgQkFEICJsZWFkZXJib2FyZDogJExCIgoKU0FZICJyZXN0YXJ0IHBlcnNpc3RlbmNlOiBraWxsIHNlcnZlciwgcmVsYXVuY2gsIGdhbWUgbXVzdCBzdXJ2aXZlIgpraWxsICR7UElEU1stMV19IDI+L2Rldi9udWxsOyB3YWl0ICR7UElEU1stMV19IDI+L2Rldi9udWxsOyBQSURTPSgke1BJRFNbQF06MDokeyNQSURTW0BdfS0xfSkKc3RhcnRfc2VydmVyIDEwMDAwMApTVDI9JChjdXJsIC1zICRCQVNFL2FwaS9nYW1lcy8kV0MpClMyPSQoZWNobyAiJFNUMiIgfCBqZ2V0ICcuc3RhdHVzJyk7IE0yPSQoZWNobyAiJFNUMiIgfCBqZ2V0ICcubW92ZU5vJykKWyAiJFMyIiA9ICJyZWQgd2lucyIgXSAmJiBbICIkTTIiID0gIiRNViIgXSAmJiBPSyAiYWZ0ZXIgcmVzdGFydDogc3RhdHVzPSRTMiBtb3ZlTm89JE0yICh1bmNoYW5nZWQpIiB8fCBCQUQgImFmdGVyIHJlc3RhcnQ6ICRTMiAvICRNMiB2cyAkTVYiCmN1cmwgLXMgJEJBU0UvYXBpL2xlYWRlcmJvYXJkIHwgZ3JlcCAtcSAnInJlZCI6JyAmJiBPSyAibGVhZGVyYm9hcmQgcGVyc2lzdHMgYWNyb3NzIHJlc3RhcnQiIHx8IEJBRCAibGVhZGVyYm9hcmQgbG9zdCIKTj0kKGN1cmwgLXMgLW8gL2Rldi9udWxsIC13ICcle2h0dHBfY29kZX0nIC1YIFBPU1QgJEJBU0UvYXBpL2dhbWVzIC1kICd7Imh1bWFucyI6NCwic2l6ZSI6MTN9JyAtSCAnY29udGVudC10eXBlOiBhcHBsaWNhdGlvbi9qc29uJykKWyAiJE4iID0gIjIwMSIgXSAmJiBPSyAiY2FuIHN0aWxsIGNyZWF0ZSBnYW1lcyBhZnRlciByZXN0YXJ0IiB8fCBCQUQgImNyZWF0ZSBhZnRlciByZXN0YXJ0ICROIgoKU0FZICJSRVNVTFQ6IFBBU1M9JFBBU1MgRkFJTD0kRkFJTCIKWyAiJEZBSUwiID0gIjAiIF0gJiYgZWNobyAiQUxMIFRFU1RTIFBBU1NFRCIgJiYgZXhpdCAwCmVjaG8gIlRFU1RTIEZBSUxFRCI7IGV4aXQgMQo=
+#!/usr/bin/env bash
+# play_test.sh — end-to-end test for Line-up Five. Run INSIDE the gigbox container:
+#   docker run --rm --memory 2g --cpus 2 --read-only --tmpfs /tmp --tmpfs /home/node/.cache \
+#     -v gamework:/work -w /work gigbox:2 bash tests/play_test.sh
+set -u
+cd "$(dirname "$0")/.."
+PORT=${TEST_PORT:-8791}
+BASE="http://127.0.0.1:${PORT}"
+PASS=0; FAIL=0
+PIDS=()
+SAY(){ printf '\n== %s ==\n' "$*"; }
+OK(){ printf 'PASS: %s\n' "$*"; PASS=$((PASS+1)); }
+BAD(){ printf 'FAIL: %s\n' "$*"; FAIL=$((FAIL+1)); }
+# json-eval: echo <json> | jget '<JS expr using o>'  (o = parsed json; ".x" shorthand too)
+jget(){ node -e 'let d="";process.stdin.on("data",c=>d+=c);process.stdin.on("end",()=>{try{const o=JSON.parse(d);const src=process.argv[1];const expr=src.startsWith(".")?("o"+src):src;const v=(new Function("o","return ("+expr+")"))(o);console.log(v===undefined?"?":v);}catch(e){console.log("PARSE_ERR:"+e.message+"|"+d.slice(0,200));}});' "$1"; }
+
+cleanup(){ SAY "cleanup"; for pid in "${PIDS[@]:-}"; do kill "$pid" 2>/dev/null; done; sleep 0.5; for pid in "${PIDS[@]:-}"; do kill -9 "$pid" 2>/dev/null; done; rm -rf "$LOGDIR"; }
+trap cleanup EXIT
+
+start_server(){ # args: extra env passed inline via `env`
+  RATE="${1:-100000}"
+  PORT=$PORT RATE_LIMIT_PER_MIN=$RATE node app/server.js >>"$LOGDIR/server.log" 2>&1 &
+  PIDS+=($!)
+  for i in $(seq 1 40); do
+    [ "$(curl -s -o /dev/null -w '%{http_code}' -X POST $BASE/api/healthz)" = "200" ] && return 0
+    sleep 0.25
+  done
+  BAD "server did not come up"; cat "$LOGDIR/server.log"; exit 1
+}
+
+LOGDIR=$(mktemp -d /work/var-testlogs.XXXX 2>/dev/null || mktemp -d)
+SAY "phase A: boot with default rate limit (60/min), check infra + validation + resign + 429"
+start_server 60
+
+H=$(curl -s -X POST $BASE/api/healthz)
+[ "$H" = '{"ok":true}' ] && OK "healthz $H" || BAD "healthz got: $H"
+
+GR=$(curl -s -X POST $BASE/api/games -H 'content-type: application/json' -d '{"humans":2,"size":13,"players":4}')
+RC=$(echo "$GR" | jget '.code'); RT0=$(echo "$GR" | jget '.seats[0].seatToken'); RT1=$(echo "$GR" | jget '.seats[1].seatToken')
+[ -n "$RC" ] && [ ${#RC} -eq 6 ] && OK "create game code=$RC seats ok" || BAD "create got: $GR"
+
+# validation: bad seatToken -> 401
+C=$(curl -s -o /dev/null -w '%{http_code}' -X POST $BASE/api/games/$RC/moves -H "authorization: Bearer 0000000000000000000000000000dead" -d '{"x":5,"y":5}')
+[ "$C" = "401" ] && OK "bad seatToken rejected ($C)" || BAD "bad token got $C"
+# validation: out of bounds -> 400
+C=$(curl -s -o /dev/null -w '%{http_code}' -X POST $BASE/api/games/$RC/moves -H "authorization: Bearer $RT0" -d '{"x":13,"y":0}')
+[ "$C" = "400" ] && OK "out-of-bounds rejected ($C)" || BAD "oob got $C"
+C=$(curl -s -o /dev/null -w '%{http_code}' -X POST $BASE/api/games/$RC/moves -H "authorization: Bearer $RT0" -d '{"x":-1,"y":7}')
+[ "$C" = "400" ] && OK "negative coord rejected ($C)" || BAD "neg got $C"
+# first legal move (red), then not-your-turn -> 409, occupied -> 4xx
+C=$(curl -s -o /dev/null -w '%{http_code}' -X POST $BASE/api/games/$RC/moves -H "authorization: Bearer $RT0" -d '{"x":11,"y":11}')
+[ "$C" = "200" ] && OK "legal move accepted" || BAD "first move got $C"
+C=$(curl -s -o /dev/null -w '%{http_code}' -X POST $BASE/api/games/$RC/moves -H "authorization: Bearer $RT0" -d '{"x":2,"y":2}')
+[ "$C" = "409" ] && OK "wrong-turn move rejected ($C)" || BAD "wrong turn got $C"
+C=$(curl -s -o /dev/null -w '%{http_code}' -X POST $BASE/api/games/$RC/moves -H "authorization: Bearer $RT1" -d '{"x":11,"y":11}')
+[ "${C:0:1}" = "4" ] && OK "occupied cell rejected ($C)" || BAD "occupied got $C"
+# public view must not leak tokens
+curl -s $BASE/api/games/$RC | grep -q "$RT0" && BAD "public view leaked seatToken" || OK "public view has no tokens"
+# resign
+R=$(curl -s -X POST $BASE/api/games/$RC/resign -H "authorization: Bearer $RT1")
+TURN=$(echo "$R" | jget '.turn')
+RES=$(echo "$R" | jget '.players[1].resigned')
+[ "$RES" = "true" ] && [ "$TURN" != "blue" ] && OK "resign ok (resigned=$RES turn=$TURN)" || BAD "resign: $R"
+C=$(curl -s -o /dev/null -w '%{http_code}' -X POST $BASE/api/games/$RC/moves -H "authorization: Bearer $RT1" -d '{"x":1,"y":1}')
+[ "${C:0:1}" = "4" ] && OK "resigned seat cannot move ($C)" || BAD "resigned move got $C"
+# rate limit: burst past 60/min -> at least one 429
+CODES=$(for i in $(seq 1 61); do curl -s -o /dev/null -w '%{http_code} ' $BASE/api/healthz; done)
+echo "$CODES" | grep -q 429 && OK "burst over 60/min hit 429" || BAD "no 429 in burst: $CODES"
+SAY "phase A done (PASS=$PASS FAIL=$FAIL)"; kill ${PIDS[-1]} 2>/dev/null; wait ${PIDS[-1]} 2>/dev/null; PIDS=(${PIDS[@]:0:${#PIDS[@]}-1})
+
+SAY "phase B: 4-seat game, 2 seats = sample bot, play to five-in-a-row"
+start_server 100000
+GW=$(curl -s -X POST $BASE/api/games -H 'content-type: application/json' -d '{"humans":2,"size":13,"players":4,"startColor":"red"}')
+WC=$(echo "$GW" | jget '.code'); WT=$(echo "$GW" | jget 'o.seats.map(s=>s.seatToken).join(",")')
+T0=$(echo "$WT" | cut -d, -f1); T1=$(echo "$WT" | cut -d, -f2); T2=$(echo "$WT" | cut -d, -f3); T3=$(echo "$WT" | cut -d, -f4)
+BF=$(echo "$GW" | jget '.botsFill')
+[ "$BF" = "true" ] && OK "botsFill=true for humans=2 (seats 2,3 = bot)" || BAD "botsFill got $BF"
+
+node bot/sample_bot.js --url $BASE --code $WC --token $T2 --poll 1200 & PIDS+=($!)
+node bot/sample_bot.js --url $BASE --code $WC --token $T3 --poll 1200 & PIDS+=($!)
+node tests/client_player.js --url $BASE --code $WC --token $T0 --seat 0 --friendly blue --poll 700 --plan "11,2;11,3;11,4;8,1;9,1;10,1;11,1" & PIDS+=($!)
+node tests/client_player.js --url $BASE --code $WC --token $T1 --seat 1 --friendly red --poll 700 --plan "0,0;1,0;2,0;3,0;4,0;5,0" & PIDS+=($!)
+
+# red plans a corner double-FOUR: vertical (11,1..4) + horizontal (8,1..11,1) via intersection (11,1);
+# completion cells are (11,0),(11,5),(7,1),(12,1) — the two bots can stop only two of four.
+for i in $(seq 1 240); do
+  ST=$(curl -s $BASE/api/games/$WC)
+  STT=$(echo "$ST" | jget '.status'); MV=$(echo "$ST" | jget '.moveNo')
+  [ "$STT" != "playing" ] && break
+  sleep 0.5
+done
+echo "final state: status=$STT moveNo=$MV"
+[ "$STT" = "red wins" ] && OK "five-in-a-row detected: $STT" || BAD "expected 'red wins', got '$STT'"
+WL=$(echo "$ST" | jget 'o.winLine?o.winLine.length:0'); [ "$WL" -ge 5 ] 2>/dev/null && OK "winLine highlight len=$WL" || BAD "winLine=$WL"
+
+SAY "replay completeness"
+RP=$(curl -s $BASE/api/replay/$WC)
+RH=$(echo "$RP" | jget 'o.history.length'); RM=$(echo "$RP" | jget '.moveNo')
+[ "$RH" = "$MV" ] && OK "replay history=$RH == moveNo=$RM" || BAD "replay hist $RH != $MV"
+HASAT=$(echo "$RP" | jget 'o.history.every(h=>h.at&&h.color&&h.seat!==undefined)')
+[ "$HASAT" = "true" ] && OK "history entries carry seat/color/at" || BAD "history fields missing: $HASAT"
+
+SAY "leaderboard"
+LB=$(curl -s $BASE/api/leaderboard)
+echo "leaderboard: $LB"
+LR=$(echo "$LB" | jget '(o.counts.red||0)>=1')
+[ "$LR" = "true" ] && OK "leaderboard red wins >= 1" || BAD "leaderboard: $LB"
+
+SAY "restart persistence: kill server, relaunch, game must survive"
+kill ${PIDS[-1]} 2>/dev/null; wait ${PIDS[-1]} 2>/dev/null; PIDS=(${PIDS[@]:0:${#PIDS[@]}-1})
+start_server 100000
+ST2=$(curl -s $BASE/api/games/$WC)
+S2=$(echo "$ST2" | jget '.status'); M2=$(echo "$ST2" | jget '.moveNo')
+[ "$S2" = "red wins" ] && [ "$M2" = "$MV" ] && OK "after restart: status=$S2 moveNo=$M2 (unchanged)" || BAD "after restart: $S2 / $M2 vs $MV"
+curl -s $BASE/api/leaderboard | grep -q '"red":' && OK "leaderboard persists across restart" || BAD "leaderboard lost"
+N=$(curl -s -o /dev/null -w '%{http_code}' -X POST $BASE/api/games -d '{"humans":4,"size":13}' -H 'content-type: application/json')
+[ "$N" = "201" ] && OK "can still create games after restart" || BAD "create after restart $N"
+
+SAY "RESULT: PASS=$PASS FAIL=$FAIL"
+[ "$FAIL" = "0" ] && echo "ALL TESTS PASSED" && exit 0
+echo "TESTS FAILED"; exit 1

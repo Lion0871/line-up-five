@@ -1,1 +1,169 @@
-J3VzZSBzdHJpY3QnOwovKiBMaW5lLXVwIEZpdmUg4oCUIGZyb250LWVuZCBjbGllbnQgKHZhbmlsbGEsIG5vIGZyYW1ld29yaywgbm8gbG9naW4pLiAqLwpjb25zdCAkID0gcyA9PiBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKHMpOwpjb25zdCBhcGkgPSB7CiAgYXN5bmMgY2FsbChtZXRob2QsIHBhdGgsIGJvZHksIHRva2VuKSB7CiAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2gocGF0aCwgewogICAgICBtZXRob2QsCiAgICAgIGhlYWRlcnM6IE9iamVjdC5hc3NpZ24oeyAnY29udGVudC10eXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0sIHRva2VuID8geyAnYXV0aG9yaXphdGlvbic6ICdCZWFyZXIgJyArIHRva2VuIH0gOiB7fSksCiAgICAgIGJvZHk6IGJvZHkgPT09IHVuZGVmaW5lZCA/IHVuZGVmaW5lZCA6IEpTT04uc3RyaW5naWZ5KGJvZHkpLAogICAgfSk7CiAgICBjb25zdCBqc29uID0gYXdhaXQgcmVzLmpzb24oKS5jYXRjaCgoKSA9PiAoe30pKTsKICAgIGlmICghcmVzLm9rKSB0aHJvdyBPYmplY3QuYXNzaWduKG5ldyBFcnJvcihqc29uLmVycm9yIHx8IHJlcy5zdGF0dXMpLCB7IHN0YXR1czogcmVzLnN0YXR1cyB9KTsKICAgIHJldHVybiBqc29uOwogIH0sCn07CmNvbnN0IExFVCA9IHsgUjogJ3JlZCcsIEI6ICdibHVlJywgRzogJ2dyZWVuJywgWTogJ3llbGxvdycgfTsKbGV0IGN1ciA9IG51bGw7ICAgICAgLy8ge2NvZGV9CmxldCB0b2tlbnMgPSB7fTsgICAgIC8vIHNlYXRJbmRleCAtPiBzZWF0VG9rZW4gKGZvciBzZWF0cyB3ZSBob2xkKQpsZXQgcG9sbFRpbWVyID0gbnVsbDsKCi8qIC0tLS0tLS0tLS0gbG9iYnkgLS0tLS0tLS0tLSAqLwpkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCcudGFiJykuZm9yRWFjaCh0ID0+IHQuYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCAoKSA9PiB7CiAgZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgnLnRhYicpLmZvckVhY2goeCA9PiB4LmNsYXNzTGlzdC5yZW1vdmUoJ2FjdGl2ZScpKTsKICB0LmNsYXNzTGlzdC5hZGQoJ2FjdGl2ZScpOwogIGZvciAoY29uc3QgcCBvZiBbJ2NyZWF0ZScsICdqb2luJ10pICQoJyNwYW5lLScgKyBwKS5jbGFzc0xpc3QudG9nZ2xlKCdoaWRkZW4nLCBwICE9PSB0LmRhdGFzZXQucGFuZSk7Cn0pKTsKCiQoJyNidG4tY3JlYXRlJykuYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCBhc3luYyAoKSA9PiB7CiAgY29uc3QgcGxheWVycyA9IE51bWJlcigkKCcjcGxheWVycycpLnZhbHVlKTsKICBjb25zdCB3aXRoQm90ID0gJCgnI2JvdHMnKS52YWx1ZSA9PT0gJ2F1dG8nOwogIGNvbnN0IGh1bWFucyA9IHdpdGhCb3QgPyBwbGF5ZXJzIC0gMSA6IHBsYXllcnM7CiAgdHJ5IHsKICAgIGNvbnN0IGcgPSBhd2FpdCBhcGkuY2FsbCgnUE9TVCcsICcvYXBpL2dhbWVzJywgeyBodW1hbnMsIHNpemU6IDEzLCBwbGF5ZXJzIH0pOwogICAgZy5zZWF0cy5mb3JFYWNoKHMgPT4gdG9rZW5zW3Muc2VhdF0gPSBzLnNlYXRUb2tlbik7CiAgICBzYXZlVG9rZW5zKCk7CiAgICBzaG93Q3JlYXRlZChnKTsKICB9IGNhdGNoIChlKSB7IGFsZXJ0KCfliJvlu7rlpLHotKXvvJonICsgZS5tZXNzYWdlKTsgfQp9KTsKCmZ1bmN0aW9uIHNob3dDcmVhdGVkKGcpIHsKICBjb25zdCBlbCA9ICQoJyNjcmVhdGVkJyk7CiAgY29uc3QgYmFzZSA9IGxvY2F0aW9uLm9yaWdpbjsKICBsZXQgaHRtbCA9IGDliqDlhaXnoIHvvJo8Yj4ke2cuY29kZX08L2I+77yI5oqK5LiL6Z2i55qE5YiG5Lqr6ZO+5o6l5oiWIHRva2VuIOWPkee7meaci+WPi++8iTxicj5gOwogIGh0bWwgKz0gYDxhIGhyZWY9Ii8/am9pbj0ke2cuY29kZX0iIGNsYXNzPSJoaW50Ij7liIbkuqvpk77mjqXvvJo/am9pbj0ke2cuY29kZX08L2E+YDsKICBmb3IgKGNvbnN0IHMgb2YgZy5zZWF0cykgewogICAgaHRtbCArPSBgPGRpdiBjbGFzcz0ic2hhcmUiPjxiPuW6p+S9jSR7cy5zZWF0fSAke3MuY29sb3J9PC9iPu+8iCR7cy5yb2xlfe+8iWAgKwogICAgICAocy5yb2xlID09PSAnYm90JwogICAgICAgID8gYCDigJQgYm90IOW4reS9je+8jOi/kOihjOWRveS7pOihpeS9je+8mjxjb2RlPm5vZGUgYm90L3NhbXBsZV9ib3QuanMgLS11cmwgJHtiYXNlfSAtLWNvZGUgJHtnLmNvZGV9IC0tdG9rZW4gJHtzLnNlYXRUb2tlbn08L2NvZGU+YAogICAgICAgIDogYCB0b2tlbu+8mjxjb2RlPiR7cy5zZWF0VG9rZW59PC9jb2RlPjxicj7njqnlrrbpk77mjqXvvJo8YSBocmVmPSIvP2pvaW49JHtnLmNvZGV9JnNlYXQ9JHtzLnNlYXR9JnRva2VuPSR7cy5zZWF0VG9rZW59Ij7ngrnmraTov5vlhaXluqfkvY0ke3Muc2VhdH08L2E+YCkgKwogICAgICBgPC9kaXY+YDsKICB9CiAgZWwuaW5uZXJIVE1MID0gaHRtbDsKICBlbnRlckdhbWUoZy5jb2RlKTsKfQoKJCgnI2J0bi1qb2luJykuYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCBhc3luYyAoKSA9PiB7CiAgY29uc3QgY29kZSA9ICQoJyNqb2luLWNvZGUnKS52YWx1ZS50cmltKCkudG9VcHBlckNhc2UoKTsKICBjb25zdCBzZWF0ID0gTnVtYmVyKCQoJyNqb2luLXNlYXQnKS52YWx1ZSk7CiAgY29uc3QgdG9rID0gJCgnI2pvaW4tdG9rZW4nKS52YWx1ZS50cmltKCk7CiAgdHJ5IHsKICAgIGF3YWl0IGFwaS5jYWxsKCdQT1NUJywgYC9hcGkvZ2FtZXMvJHtjb2RlfS9qb2luYCwgeyBzZWF0LCBzZWF0VG9rZW46IHRvayB9KTsKICAgIHRva2Vuc1tzZWF0XSA9IHRvazsgc2F2ZVRva2VucygpOwogICAgZW50ZXJHYW1lKGNvZGUpOwogIH0gY2F0Y2ggKGUpIHsgYWxlcnQoJ+WKoOWFpeWksei0pe+8micgKyBlLm1lc3NhZ2UpOyB9Cn0pOwoKZnVuY3Rpb24gc2F2ZVRva2VucygpIHsgaWYgKGN1cikgbG9jYWxTdG9yYWdlLnNldEl0ZW0oJ2x1ZjonICsgY3VyLmNvZGUsIEpTT04uc3RyaW5naWZ5KHRva2VucykpOyB9CmZ1bmN0aW9uIGxvYWRUb2tlbnMoY29kZSkgeyB0cnkgeyByZXR1cm4gSlNPTi5wYXJzZShsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgnbHVmOicgKyBjb2RlKSB8fCAne30nKTsgfSBjYXRjaCB7IHJldHVybiB7fTsgfSB9CgovKiAtLS0tLS0tLS0tIGdhbWUgdmlldyAtLS0tLS0tLS0tICovCmZ1bmN0aW9uIGVudGVyR2FtZShjb2RlKSB7CiAgY3VyID0geyBjb2RlIH07CiAgdG9rZW5zID0gbG9hZFRva2Vucyhjb2RlKTsKICAkKCcjbG9iYnknKS5jbGFzc0xpc3QuYWRkKCdoaWRkZW4nKTsKICAkKCcjZ2FtZScpLmNsYXNzTGlzdC5yZW1vdmUoJ2hpZGRlbicpOwogICQoJyNnLWNvZGUnKS50ZXh0Q29udGVudCA9ICfliqDlhaXnoIEgJyArIGNvZGU7CiAgaWYgKHBvbGxUaW1lcikgY2xlYXJJbnRlcnZhbChwb2xsVGltZXIpOwogIHBvbGwoKTsKICBwb2xsVGltZXIgPSBzZXRJbnRlcnZhbChwb2xsLCAxNTAwKTsKfQoKJCgnI2J0bi1sb2JieScpLmFkZEV2ZW50TGlzdGVuZXIoJ2NsaWNrJywgKCkgPT4gewogIGNsZWFySW50ZXJ2YWwocG9sbFRpbWVyKTsgcG9sbFRpbWVyID0gbnVsbDsKICAkKCcjZ2FtZScpLmNsYXNzTGlzdC5hZGQoJ2hpZGRlbicpOyAkKCcjbG9iYnknKS5jbGFzc0xpc3QucmVtb3ZlKCdoaWRkZW4nKTsKfSk7Cgphc3luYyBmdW5jdGlvbiBwb2xsKCkgewogIGlmICghY3VyKSByZXR1cm47CiAgbGV0IHN0OwogIHRyeSB7IHN0ID0gYXdhaXQgYXBpLmNhbGwoJ0dFVCcsICcvYXBpL2dhbWVzLycgKyBjdXIuY29kZSk7IH0gY2F0Y2ggKGUpIHsgcmV0dXJuOyB9CiAgcmVuZGVyKHN0KTsKfQoKZnVuY3Rpb24gcmVuZGVyKHN0KSB7CiAgJCgnI2ctbW92ZScpLnRleHRDb250ZW50ID0gYOesrCAke3N0Lm1vdmVOb30g5omLIMK3ICR7c3QucGxheWVycy5maWx0ZXIocCA9PiAhcC5yZXNpZ25lZCkubGVuZ3RofSDkurrlnKjlsYBgOwogIGNvbnN0IHRiID0gJCgnI2ctdHVybicpOwogIHRiLnRleHRDb250ZW50ID0gc3QudHVybiA/IGDova7liLAgJHtzdC50dXJufWAgOiAn5bey57uT5p2fJzsKICB0Yi5jbGFzc05hbWUgPSAndHVybmJhZGdlICcgKyAoc3QudHVybiB8fCAnJyk7CiAgJCgnI2ctc3RhdHVzJykudGV4dENvbnRlbnQgPSBzdC5zdGF0dXMgPT09ICdwbGF5aW5nJyA/ICcnIDogc3Quc3RhdHVzLnRvVXBwZXJDYXNlKCk7CiAgLy8gYm9hcmQKICBjb25zdCBiID0gJCgnI2JvYXJkJyk7CiAgY29uc3Qgd2luU2V0ID0gbmV3IFNldCgoc3Qud2luTGluZSB8fCBbXSkubWFwKGMgPT4gY1swXSArICcsJyArIGNbMV0pKTsKICBjb25zdCBjZWxscyA9IFtdOwogIGZvciAobGV0IHkgPSAwOyB5IDwgc3Quc2l6ZTsgeSsrKSBmb3IgKGxldCB4ID0gMDsgeCA8IHN0LnNpemU7IHgrKykgewogICAgY29uc3QgdiA9IHN0LmJvYXJkW3ldW3hdOwogICAgY29uc3QgZCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ2J1dHRvbicpOwogICAgZC5jbGFzc05hbWUgPSAnY2VsbCc7CiAgICBpZiAodiAhPT0gJy4nKSB7IGNvbnN0IHMgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzcGFuJyk7IHMuY2xhc3NOYW1lID0gJ3N0b25lICcgKyBMRVRbdl07IGQuYXBwZW5kQ2hpbGQocyk7IH0KICAgIGlmICh3aW5TZXQuaGFzKHggKyAnLCcgKyB5KSkgZC5jbGFzc0xpc3QuYWRkKCd3aW4nKTsKICAgIGNvbnN0IGxhc3QgPSBzdC5tb3ZlTm8gJiYgbGFzdE1vdmUgJiYgbGFzdE1vdmVbMF0gPT09IHggJiYgbGFzdE1vdmVbMV0gPT09IHk7CiAgICBpZiAobGFzdCkgZC5jbGFzc0xpc3QuYWRkKCdsYXN0Jyk7CiAgICBkLmFkZEV2ZW50TGlzdGVuZXIoJ2NsaWNrJywgKCkgPT4gdHJ5TW92ZSh4LCB5LCBzdCkpOwogICAgY2VsbHMucHVzaChkKTsKICB9CiAgYi5yZXBsYWNlQ2hpbGRyZW4oLi4uY2VsbHMpOwogIC8vIGhpc3RvcnkKICAkKCcjaGlzdCcpLnJlcGxhY2VDaGlsZHJlbiguLi4oc3QuaGlzdG9yeSB8fCBbXSkubWFwKGggPT4gewogICAgY29uc3QgbGkgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdsaScpOwogICAgbGkuaW5uZXJIVE1MID0gYDxzcGFuIGNsYXNzPSJkb3QgJHtoLmNvbG9yfSI+PC9zcGFuPigke2gueH0sJHtoLnl9KWA7CiAgICByZXR1cm4gbGk7CiAgfSkpOwogIC8vIG15LXNlYXQgaGludAogIGNvbnN0IG1pbmUgPSBPYmplY3Qua2V5cyh0b2tlbnMpLmZpbHRlcihzID0+ICFzdC5wbGF5ZXJzW3NdLnJlc2lnbmVkKS5tYXAocyA9PiBzdC5wbGF5ZXJzW3NdLmNvbG9yKTsKICAkKCcjbXlzZWF0LWhpbnQnKS50ZXh0Q29udGVudCA9IG1pbmUubGVuZ3RoID8gYOaIkeaJp++8miR7bWluZS5qb2luKCcvJyl977yI54K55Ye76JC95a2Q77yJYCA6ICfvvIjkvaDkuI3lnKjluqfkvY3kuIrvvJrku47liIbkuqvpk77mjqXov5vlhaXmiJbliqDlhaXvvIknOwogIC8vIGJhbm5lcgogIGlmIChzdC5zdGF0dXMgIT09ICdwbGF5aW5nJykgewogICAgJCgnI2Jhbm5lci10JykudGV4dENvbnRlbnQgPSBzdC5zdGF0dXMgPT09ICdkcmF3JyA/ICflubPlsYDvvIEnIDogc3Quc3RhdHVzICsgJyDwn46JJzsKICAgICQoJyNiYW5uZXInKS5jbGFzc0xpc3QucmVtb3ZlKCdoaWRkZW4nKTsKICB9IGVsc2UgJCgnI2Jhbm5lcicpLmNsYXNzTGlzdC5hZGQoJ2hpZGRlbicpOwogIGxhc3RNb3ZlID0gc3QuaGlzdG9yeSAmJiBzdC5oaXN0b3J5Lmxlbmd0aCA/IFtzdC5oaXN0b3J5W3N0Lmhpc3RvcnkubGVuZ3RoIC0gMV0ueCwgc3QuaGlzdG9yeVtzdC5oaXN0b3J5Lmxlbmd0aCAtIDFdLnldIDogbnVsbDsKfQoKbGV0IGxhc3RNb3ZlID0gbnVsbDsKYXN5bmMgZnVuY3Rpb24gdHJ5TW92ZSh4LCB5LCBzdCkgewogIGlmIChzdC5zdGF0dXMgIT09ICdwbGF5aW5nJyB8fCAhc3QudHVybikgcmV0dXJuOwogIGNvbnN0IHNlYXQgPSBPYmplY3Qua2V5cyh0b2tlbnMpLmZpbmQocyA9PiBzdC5wbGF5ZXJzW3NdLmNvbG9yID09PSBzdC50dXJuICYmICFzdC5wbGF5ZXJzW3NdLnJlc2lnbmVkKTsKICBpZiAoc2VhdCA9PT0gdW5kZWZpbmVkKSB7IGFsZXJ0KCflvZPliY3ova7mrKHkvaDmsqHmnInmjIHmnInluqfkvY3vvIjluqfkvY3lh63or4Hlj6rlsZ7kuo7liJvlu7rogIUv5Yqg5YWl6ICF77yJJyk7IHJldHVybjsgfQogIHRyeSB7CiAgICBhd2FpdCBhcGkuY2FsbCgnUE9TVCcsIGAvYXBpL2dhbWVzLyR7Y3VyLmNvZGV9L21vdmVzYCwgeyB4LCB5IH0sIHRva2Vuc1tzZWF0XSk7CiAgICBwb2xsKCk7CiAgfSBjYXRjaCAoZSkgeyBhbGVydCgn6JC95a2Q6KKr5ouS57ud77yaJyArIGUubWVzc2FnZSk7IH0KfQoKJCgnI2J0bi1yZXNpZ24nKS5hZGRFdmVudExpc3RlbmVyKCdjbGljaycsIGFzeW5jICgpID0+IHsKICBpZiAoIWN1cikgcmV0dXJuOwogIGxldCBzdDsgdHJ5IHsgc3QgPSBhd2FpdCBhcGkuY2FsbCgnR0VUJywgJy9hcGkvZ2FtZXMvJyArIGN1ci5jb2RlKTsgfSBjYXRjaCB7IHJldHVybjsgfQogIGNvbnN0IHNlYXQgPSBPYmplY3Qua2V5cyh0b2tlbnMpLmZpbmQocyA9PiAhc3QucGxheWVyc1tzXS5yZXNpZ25lZCk7CiAgaWYgKHNlYXQgPT09IHVuZGVmaW5lZCkgcmV0dXJuIGFsZXJ0KCfkvaDmsqHmnInlnKjluqcnKTsKICB0cnkgeyBhd2FpdCBhcGkuY2FsbCgnUE9TVCcsIGAvYXBpL2dhbWVzLyR7Y3VyLmNvZGV9L3Jlc2lnbmAsIHVuZGVmaW5lZCwgdG9rZW5zW3NlYXRdKTsgcG9sbCgpOyB9IGNhdGNoIChlKSB7IGFsZXJ0KGUubWVzc2FnZSk7IH0KfSk7CgokKCcjYnRuLWJvdHMnKS5hZGRFdmVudExpc3RlbmVyKCdjbGljaycsIGFzeW5jICgpID0+IHsKICBpZiAoIWN1cikgcmV0dXJuOwogIGNvbnN0IHN0ID0gYXdhaXQgYXBpLmNhbGwoJ0dFVCcsICcvYXBpL2dhbWVzLycgKyBjdXIuY29kZSk7CiAgY29uc3QgbWlzc2luZyA9IHN0LnBsYXllcnMuZmlsdGVyKHAgPT4gcC5yb2xlID09PSAnYm90JyAmJiAhcC5yZXNpZ25lZCk7CiAgaWYgKCFtaXNzaW5nLmxlbmd0aCkgcmV0dXJuIGFsZXJ0KCfmsqHmnIkgYm90IOepuuS9jScpOwogICQoJyNib3RjbWQnKS50ZXh0Q29udGVudCA9IG1pc3NpbmcubWFwKHAgPT4KICAgIGBub2RlIGJvdC9zYW1wbGVfYm90LmpzIC0tdXJsICR7bG9jYXRpb24ub3JpZ2lufSAtLWNvZGUgJHtjdXIuY29kZX0gLS10b2tlbiAke3Rva2Vuc1twLnNlYXRdIHx8ICco6ZyA6KaB6K+l5bqn5L2N55qEc2VhdFRva2VuKSd9YCkuam9pbignXG4nKTsKICAkKCcjYm90Y21kJykuY2xhc3NMaXN0LnJlbW92ZSgnaGlkZGVuJyk7Cn0pOwoKLyogZGVlcCBsaW5rID9qb2luPWNvZGUmc2VhdCZ0b2tlbiAqLwpjb25zdCBxID0gbmV3IFVSTFNlYXJjaFBhcmFtcyhsb2NhdGlvbi5zZWFyY2gpOwppZiAocS5nZXQoJ2pvaW4nKSkgewogICQoJyNqb2luLWNvZGUnKS52YWx1ZSA9IHEuZ2V0KCdqb2luJyk7CiAgaWYgKHEuZ2V0KCdzZWF0JykpICQoJyNqb2luLXNlYXQnKS52YWx1ZSA9IHEuZ2V0KCdzZWF0Jyk7CiAgaWYgKHEuZ2V0KCd0b2tlbicpKSAkKCcjam9pbi10b2tlbicpLnZhbHVlID0gcS5nZXQoJ3Rva2VuJyk7CiAgZG9jdW1lbnQucXVlcnlTZWxlY3RvcignW2RhdGEtcGFuZT1qb2luXScpLmNsaWNrKCk7Cn0K
+'use strict';
+/* Line-up Five — front-end client (vanilla, no framework, no login). */
+const $ = s => document.querySelector(s);
+const api = {
+  async call(method, path, body, token) {
+  const res = await fetch(path, {
+      method,
+      headers: Object.assign({ 'content-type': 'application/json' }, token ? { 'authorization': 'Bearer ' + token } : {}),
+      body: body === undefined ? undefined : JSON.stringify(body),
+    });
+    const json = await res.json().catch(() => ({}));
+    if (!res.ok) throw Object.assign(new Error(json.error || res.status), { status: res.status });
+    return json;
+  },
+};
+const LET = { R: 'red', B: 'blue', G: 'green', Y: 'yellow' };
+let cur = null;      // {code}
+let tokens = {};     // seatIndex -> seatToken (for seats we hold)
+let pollTimer = null;
+
+/* ---------- lobby ---------- */
+document.querySelectorAll('.tab').forEach(t => t.addEventListener('click', () => {
+  document.querySelectorAll('.tab').forEach(x => x.classList.remove('active'));
+  t.classList.add('active');
+  for (const p of ['create', 'join']) $('#pane-' + p).classList.toggle('hidden', p !== t.dataset.pane);
+}));
+
+$('#btn-create').addEventListener('click', async () => {
+  const players = Number($('#players').value);
+  const withBot = $('#bots').value === 'auto';
+  const humans = withBot ? players - 1 : players;
+  try {
+    const g = await api.call('POST', '/api/games', { humans, size: 13, players });
+    g.seats.forEach(s => tokens[s.seat] = s.seatToken);
+    saveTokens();
+    showCreated(g);
+  } catch (e) { alert('创建失败：' + e.message); }
+});
+
+function showCreated(g) {
+  const el = $('#created');
+  const base = location.origin;
+  let html = `加入码：<b>${g.code}</b>（把下面的分享链接或 token 发给朋友）<br>`;
+  html += `<a href="/?join=${g.code}" class="hint">分享链接：?join=${g.code}</a>`;
+  for (const s of g.seats) {
+    html += `<div class="share"><b>座位${s.seat} ${s.color}</b>（${s.role}）` +
+      (s.role === 'bot'
+        ? ` — bot 席位，运行命令补位：<code>node bot/sample_bot.js --url ${base} --code ${g.code} --token ${s.seatToken}</code>`
+        : ` token：<code>${s.seatToken}</code><br>玩家链接：<a href="/?join=${g.code}&seat=${s.seat}&token=${s.seatToken}">点此进入座位${s.seat}</a>`) +
+      `</div>`;
+  }
+  el.innerHTML = html;
+  enterGame(g.code);
+}
+
+$('#btn-join').addEventListener('click', async () => {
+  const code = $('#join-code').value.trim().toUpperCase();
+  const seat = Number($('#join-seat').value);
+  const tok = $('#join-token').value.trim();
+  try {
+    await api.call('POST', `/api/games/${code}/join`, { seat, seatToken: tok });
+    tokens[seat] = tok; saveTokens();
+    enterGame(code);
+  } catch (e) { alert('加入失败：' + e.message); }
+});
+
+function saveTokens() { if (cur) localStorage.setItem('luf:' + cur.code, JSON.stringify(tokens)); }
+function loadTokens(code) { try { return JSON.parse(localStorage.getItem('luf:' + code) || '{}'); } catch { return {}; } }
+
+/* ---------- game view ---------- */
+function enterGame(code) {
+  cur = { code };
+  tokens = loadTokens(code);
+  $('#lobby').classList.add('hidden');
+  $('#game').classList.remove('hidden');
+  $('#g-code').textContent = '加入码 ' + code;
+  if (pollTimer) clearInterval(pollTimer);
+  poll();
+  pollTimer = setInterval(poll, 1500);
+}
+
+$('#btn-lobby').addEventListener('click', () => {
+  clearInterval(pollTimer); pollTimer = null;
+  $('#game').classList.add('hidden'); $('#lobby').classList.remove('hidden');
+});
+
+async function poll() {
+  if (!cur) return;
+  let st;
+  try { st = await api.call('GET', '/api/games/' + cur.code); } catch (e) { return; }
+  render(st);
+}
+
+function render(st) {
+  $('#g-move').textContent = `第 ${st.moveNo} 手 · ${st.players.filter(p => !p.resigned).length} 人在局`;
+  const tb = $('#g-turn');
+  tb.textContent = st.turn ? `轮到 ${st.turn}` : '已结束';
+  tb.className = 'turnbadge ' + (st.turn || '');
+  $('#g-status').textContent = st.status === 'playing' ? '' : st.status.toUpperCase();
+  // board
+  const b = $('#board');
+  const winSet = new Set((st.winLine || []).map(c => c[0] + ',' + c[1]));
+  const cells = [];
+  for (let y = 0; y < st.size; y++) for (let x = 0; x < st.size; x++) {
+    const v = st.board[y][x];
+    const d = document.createElement('button');
+    d.className = 'cell';
+    if (v !== '.') { const s = document.createElement('span'); s.className = 'stone ' + LET[v]; d.appendChild(s); }
+    if (winSet.has(x + ',' + y)) d.classList.add('win');
+    const last = st.moveNo && lastMove && lastMove[0] === x && lastMove[1] === y;
+    if (last) d.classList.add('last');
+    d.addEventListener('click', () => tryMove(x, y, st));
+    cells.push(d);
+  }
+  b.replaceChildren(...cells);
+  // history
+  $('#hist').replaceChildren(...(st.history || []).map(h => {
+    const li = document.createElement('li');
+    li.innerHTML = `<span class="dot ${h.color}"></span>(${h.x},${h.y})`;
+    return li;
+  }));
+  // my-seat hint
+  const mine = Object.keys(tokens).filter(s => !st.players[s].resigned).map(s => st.players[s].color);
+  $('#myseat-hint').textContent = mine.length ? `我执：${mine.join('/')}（点击落子）` : '（你不在座位上：从分享链接进入或加入）';
+  // banner
+  if (st.status !== 'playing') {
+    $('#banner-t').textContent = st.status === 'draw' ? '平局！' : st.status + ' 🎉';
+    $('#banner').classList.remove('hidden');
+  } else $('#banner').classList.add('hidden');
+  lastMove = st.history && st.history.length ? [st.history[st.history.length - 1].x, st.history[st.history.length - 1].y] : null;
+}
+
+let lastMove = null;
+async function tryMove(x, y, st) {
+  if (st.status !== 'playing' || !st.turn) return;
+  const seat = Object.keys(tokens).find(s => st.players[s].color === st.turn && !st.players[s].resigned);
+  if (seat === undefined) { alert('当前轮次你没有持有座位（座位凭证只属于创建者/加入者）'); return; }
+  try {
+    await api.call('POST', `/api/games/${cur.code}/moves`, { x, y }, tokens[seat]);
+    poll();
+  } catch (e) { alert('落子被拒绝：' + e.message); }
+}
+
+$('#btn-resign').addEventListener('click', async () => {
+  if (!cur) return;
+  let st; try { st = await api.call('GET', '/api/games/' + cur.code); } catch { return; }
+  const seat = Object.keys(tokens).find(s => !st.players[s].resigned);
+  if (seat === undefined) return alert('你没有在座');
+  try { await api.call('POST', `/api/games/${cur.code}/resign`, undefined, tokens[seat]); poll(); } catch (e) { alert(e.message); }
+});
+
+$('#btn-bots').addEventListener('click', async () => {
+  if (!cur) return;
+  const st = await api.call('GET', '/api/games/' + cur.code);
+  const missing = st.players.filter(p => p.role === 'bot' && !p.resigned);
+  if (!missing.length) return alert('没有 bot 空位');
+  $('#botcmd').textContent = missing.map(p =>
+    `node bot/sample_bot.js --url ${location.origin} --code ${cur.code} --token ${tokens[p.seat] || '(需要该座位的seatToken)'}`).join('\n');
+  $('#botcmd').classList.remove('hidden');
+});
+
+/* deep link ?join=code&seat&token */
+const q = new URLSearchParams(location.search);
+if (q.get('join')) {
+  $('#join-code').value = q.get('join');
+  if (q.get('seat')) $('#join-seat').value = q.get('seat');
+  if (q.get('token')) $('#join-token').value = q.get('token');
+  document.querySelector('[data-pane=join]').click();
+}

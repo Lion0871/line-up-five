@@ -1,1 +1,132 @@
-J3VzZSBzdHJpY3QnOwovKgogKiB0ZXN0cy9jbGllbnRfcGxheWVyLmpzIOKAlCBzY3JpcHRlZCBzZWF0IGNsaWVudCB1c2VkIGJ5IHBsYXlfdGVzdC5zaC4KICogQWN0cyBsaWtlIGEgaHVtYW4gcGxheWVyIG92ZXIgdGhlIHB1YmxpYyBBUEkgKHRoaXMgaXMgd2hhdCBjdXJsICsgYSBzbWFsbAogKiBsb29wIHdvdWxkIGRvOyBrZWVwaW5nIGl0IGFzIGEgbm9kZSBmaWxlIG1ha2VzIHRoZSB0ZXN0IGRldGVybWluaXN0aWMpLgogKgogKiBEZWNpc2lvbiBvcmRlciBvbiB5b3VyIHR1cm46CiAqICAgMSkgd2luIG5vdyAod291bGQgY29tcGxldGUgPj01IGZvciBteSBjb2xvcikKICogICAyKSBibG9jayBhbnkgTk9OLWZyaWVuZGx5IG9wcG9uZW50J3MgZm91ciAodGhleSB3b3VsZCBjb21wbGV0ZSA+PTUpCiAqICAgMykgcGxheSBuZXh0IHBsYW5uZWQgY2VsbCAoc2tpcHBpbmcgb2NjdXBpZWQgb25lcykKICogICA0KSBibG9jayBhIGZyaWVuZGx5LXRocmVhdGVuaW5nIG9wZW4gdGhyZWUgZnJvbSBub24tZnJpZW5kbGllcwogKiAgIDUpIGZhbGxiYWNrOiBuZWFyZXN0IGVtcHR5IGNlbGwgdG8gY2VudGVyCiAqCiAqIC0tZnJpZW5kbHkgY2FuIGJlIGdpdmVuIHR3aWNlOiBlLmcuIHNlYXQwIHVzZXMgLS1mcmllbmRseSBibHVlIC0tZnJpZW5kbHkgcmVkCiAqIG1lYW5pbmcgY29sb3JzIHRoYXQgbXVzdCBOT1QgYmUgZGVmZW5kZWQtYmxvY2tlZCBieSB0aGlzIGNsaWVudC4KICovCmNvbnN0IGh0dHAgPSByZXF1aXJlKCdub2RlOmh0dHAnKTsKY29uc3QgYXJncyA9IHByb2Nlc3MuYXJndi5zbGljZSgyKTsKZnVuY3Rpb24gYXJnQWxsKG5hbWUpIHsgcmV0dXJuIGFyZ3MubWFwKChhLCBpKSA9PiAoYSA9PT0gJy0tJyArIG5hbWUgPyBhcmdzW2kgKyAxXSA6IG51bGwpKS5maWx0ZXIoQm9vbGVhbik7IH0KZnVuY3Rpb24gYXJnKG5hbWUsIGRmbHQpIHsgY29uc3QgdiA9IGFyZ0FsbChuYW1lKTsgcmV0dXJuIHYubGVuZ3RoID8gdlswXSA6IGRmbHQ7IH0KY29uc3QgVVJMX0JBU0UgPSBhcmcoJ3VybCcsICdodHRwOi8vMTI3LjAuMC4xOjg3ODcnKTsKY29uc3QgQ09ERSA9IGFyZygnY29kZScsICcnKTsKY29uc3QgVE9LRU4gPSBhcmcoJ3Rva2VuJywgJycpOwpjb25zdCBTRUFUID0gTnVtYmVyKGFyZygnc2VhdCcsIDApKTsKY29uc3QgRlJJRU5ETFkgPSBhcmdBbGwoJ2ZyaWVuZGx5Jyk7ICAgICAgICAgICAvLyBjb2xvcnMgdGhpcyBjbGllbnQgbmV2ZXIgYmxvY2tzCmNvbnN0IFBMQU4gPSAoYXJnKCdwbGFuJywgJycpIHx8ICcnKS5zcGxpdCgnOycpLm1hcChzID0+IHMudHJpbSgpKS5maWx0ZXIoQm9vbGVhbikKICAubWFwKHMgPT4gcy5zcGxpdCgnLCcpLm1hcChOdW1iZXIpKTsKY29uc3QgUE9MTCA9IE51bWJlcihhcmcoJ3BvbGwnLCA4MDApKTsKCmZ1bmN0aW9uIHJlcShtZXRob2QsIHAsIGJvZHksIGhlYWRlcnMpIHsKICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgY29uc3QgdSA9IG5ldyBVUkwoVVJMX0JBU0UgKyBwKTsKICAgIGNvbnN0IGRhdGEgPSBib2R5ID09PSB1bmRlZmluZWQgPyBudWxsIDogSlNPTi5zdHJpbmdpZnkoYm9keSk7CiAgICBjb25zdCByID0gaHR0cC5yZXF1ZXN0KHsKICAgICAgbWV0aG9kLCBob3N0bmFtZTogdS5ob3N0bmFtZSwgcG9ydDogdS5wb3J0IHx8IDgwLCBwYXRoOiB1LnBhdGhuYW1lLAogICAgICBoZWFkZXJzOiBPYmplY3QuYXNzaWduKHsgJ2NvbnRlbnQtdHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJyB9LCBkYXRhID8geyAnY29udGVudC1sZW5ndGgnOiBCdWZmZXIuYnl0ZUxlbmd0aChkYXRhKSB9IDoge30sIGhlYWRlcnMgfHwge30pLAogICAgfSwgcmVzID0+IHsKICAgICAgbGV0IGIgPSAnJzsKICAgICAgcmVzLm9uKCdkYXRhJywgYyA9PiBiICs9IGMpOwogICAgICByZXMub24oJ2VuZCcsICgpID0+IHJlc29sdmUoeyBzdGF0dXM6IHJlcy5zdGF0dXNDb2RlLCBqc29uOiAoKCkgPT4geyB0cnkgeyByZXR1cm4gSlNPTi5wYXJzZShiKTsgfSBjYXRjaCB7IHJldHVybiBudWxsOyB9IH0pKCkgfSkpOwogICAgfSk7CiAgICByLm9uKCdlcnJvcicsIHJlamVjdCk7CiAgICBpZiAoZGF0YSkgci53cml0ZShkYXRhKTsKICAgIHIuZW5kKCk7CiAgfSk7Cn0KY29uc3Qgc2xlZXAgPSBtcyA9PiBuZXcgUHJvbWlzZShyID0+IHNldFRpbWVvdXQociwgbXMpKTsKZnVuY3Rpb24gaW5CKGJvYXJkLCB4LCB5KSB7IHJldHVybiB4ID49IDAgJiYgeSA+PSAwICYmIHkgPCBib2FyZC5sZW5ndGggJiYgeCA8IGJvYXJkWzBdLmxlbmd0aCAmJiB4ID49IDA7IH0KZnVuY3Rpb24gcnVuTGVuKGJvYXJkLCB4LCB5LCBMKSB7CiAgYm9hcmRbeV1beF0gPSBMOwogIGxldCBiZXN0ID0gMDsKICBmb3IgKGNvbnN0IFtkeCwgZHldIG9mIFtbMSwgMF0sIFswLCAxXSwgWzEsIDFdLCBbMSwgLTFdXSkgewogICAgbGV0IG4gPSAxOwogICAgZm9yIChjb25zdCBzZyBvZiBbMSwgLTFdKSB7CiAgICAgIGxldCBweCA9IHggKyBkeCAqIHNnLCBweSA9IHkgKyBkeSAqIHNnOwogICAgICB3aGlsZSAoaW5CKGJvYXJkLCBweCwgcHkpICYmIGJvYXJkW3B5XVtweF0gPT09IEwpIHsgbisrOyBweCArPSBkeCAqIHNnOyBweSArPSBkeSAqIHNnOyB9CiAgICB9CiAgICBiZXN0ID0gTWF0aC5tYXgoYmVzdCwgbik7CiAgfQogIGJvYXJkW3ldW3hdID0gJy4nOwogIHJldHVybiBiZXN0Owp9CmZ1bmN0aW9uIGlzT3BlblRocmVlKGJvYXJkLCB4LCB5LCBMKSB7CiAgLy8gcGxhY2luZyBoZXJlIG1ha2VzIGFuIG9wZW4gdGhyZWUgZXhhY3RseSAobGVuIDMsIHR3byBvcGVuIGVuZHMgb24gdGhhdCBydW4pCiAgYm9hcmRbeV1beF0gPSBMOwogIGxldCBoaXQgPSBmYWxzZTsKICBmb3IgKGNvbnN0IFtkeCwgZHldIG9mIFtbMSwgMF0sIFswLCAxXSwgWzEsIDFdLCBbMSwgLTFdXSkgewogICAgbGV0IG4gPSAxOwogICAgZm9yIChjb25zdCBzZyBvZiBbMSwgLTFdKSB7CiAgICAgIGxldCBweCA9IHggKyBkeCAqIHNnLCBweSA9IHkgKyBkeSAqIHNnOwogICAgICB3aGlsZSAoaW5CKGJvYXJkLCBweCwgcHkpICYmIGJvYXJkW3B5XVtweF0gPT09IEwpIHsgbisrOyBweCArPSBkeCAqIHNnOyBweSArPSBkeSAqIHNnOyB9CiAgICAgIHZhciBvcGVuQ2VsbCA9IGluQihib2FyZCwgcHgsIHB5KSAmJiBib2FyZFtweV1bcHhdID09PSAnLic7CiAgICAgIGlmIChuID49IDMgJiYgb3BlbkNlbGwpIHsgLyogY291bnQgZW5kcyBiZWxvdyAqLyB9CiAgICB9CiAgICBpZiAobiA9PT0gMykgewogICAgICBsZXQgZW5kcyA9IDA7CiAgICAgIGZvciAoY29uc3Qgc2cgb2YgWzEsIC0xXSkgewogICAgICAgIGxldCBweCA9IHggKyBkeCAqIHNnLCBweSA9IHkgKyBkeSAqIHNnOwogICAgICAgIHdoaWxlIChpbkIoYm9hcmQsIHB4LCBweSkgJiYgYm9hcmRbcHldW3B4XSA9PT0gTCkgeyBweCArPSBkeCAqIHNnOyBweSArPSBkeSAqIHNnOyB9CiAgICAgICAgaWYgKGluQihib2FyZCwgcHgsIHB5KSAmJiBib2FyZFtweV1bcHhdID09PSAnLicpIGVuZHMrKzsKICAgICAgfQogICAgICBpZiAoZW5kcyA9PT0gMikgaGl0ID0gdHJ1ZTsKICAgIH0KICB9CiAgYm9hcmRbeV1beF0gPSAnLic7CiAgcmV0dXJuIGhpdDsKfQpmdW5jdGlvbiBlbXB0aWVzKGJvYXJkKSB7CiAgY29uc3Qgb3V0ID0gW107CiAgZm9yIChsZXQgeSA9IDA7IHkgPCBib2FyZC5sZW5ndGg7IHkrKykgZm9yIChsZXQgeCA9IDA7IHggPCBib2FyZFt5XS5sZW5ndGg7IHgrKykgaWYgKGJvYXJkW3ldW3hdID09PSAnLicpIG91dC5wdXNoKFt4LCB5XSk7CiAgcmV0dXJuIG91dDsKfQpjb25zdCBMRVQgPSBjID0+ICh7IHJlZDogJ1InLCBibHVlOiAnQicsIGdyZWVuOiAnRycsIHllbGxvdzogJ1knIH0pW2NdOwoKYXN5bmMgZnVuY3Rpb24gbWFpbigpIHsKICBsZXQgdXNlZCA9IDA7CiAgY29uc29sZS5sb2coYFtjbGllbnQgc2VhdCAke1NFQVR9XSBvbmxpbmUgcGxhbj0ke1BMQU4ubGVuZ3RofWApOwogIGZvciAoOzspIHsKICAgIGNvbnN0IHIgPSBhd2FpdCByZXEoJ0dFVCcsICcvYXBpL2dhbWVzLycgKyBDT0RFKTsKICAgIGlmIChyLnN0YXR1cyAhPT0gMjAwKSB7IGNvbnNvbGUuZXJyb3IoJ1tjbGllbnRdIHN0YXRlIGVycm9yJywgci5zdGF0dXMsIHIuanNvbik7IGF3YWl0IHNsZWVwKFBPTEwpOyBjb250aW51ZTsgfQogICAgY29uc3Qgc3QgPSByLmpzb247CiAgICBpZiAoc3Quc3RhdHVzICE9PSAncGxheWluZycpIHsgY29uc29sZS5sb2coYFtjbGllbnQgc2VhdCAke1NFQVR9XSBmaW5pc2hlZDogJHtzdC5zdGF0dXN9YCk7IHJldHVybjsgfQogICAgY29uc3QgbWUgPSBzdC5wbGF5ZXJzW1NFQVRdOwogICAgaWYgKHN0LnR1cm4gIT09IG1lLmNvbG9yKSB7IGF3YWl0IHNsZWVwKFBPTEwpOyBjb250aW51ZTsgfQogICAgY29uc3QgTCA9IExFVChtZS5jb2xvcik7CiAgICBjb25zdCByaXZhbHMgPSBzdC5wbGF5ZXJzLmZpbHRlcihwID0+ICFwLnJlc2lnbmVkICYmIHAuY29sb3IgIT09IG1lLmNvbG9yICYmICFGUklFTkRMWS5pbmNsdWRlcyhwLmNvbG9yKSkubWFwKHAgPT4gTEVUKHAuY29sb3IpKTsKICAgIGNvbnN0IGJvYXJkID0gc3QuYm9hcmQ7CiAgICBsZXQgbXYgPSBudWxsOwogICAgZm9yIChjb25zdCBbeCwgeV0gb2YgZW1wdGllcyhib2FyZCkpIGlmIChydW5MZW4oYm9hcmQsIHgsIHksIEwpID49IDUpIHsgbXYgPSBbeCwgeV07IGJyZWFrOyB9ICAgICAgICAgIC8vIHdpbiBub3cKICAgIGlmICghbXYpIGZvciAoY29uc3QgW3gsIHldIG9mIGVtcHRpZXMoYm9hcmQpKSB7ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBibG9jayBmb3VyCiAgICAgIGZvciAoY29uc3QgUiBvZiByaXZhbHMpIGlmIChydW5MZW4oYm9hcmQsIHgsIHksIFIpID49IDUpIHsgbXYgPSBbeCwgeV07IGJyZWFrOyB9CiAgICAgIGlmIChtdikgYnJlYWs7CiAgICB9CiAgICBpZiAoIW12KSB3aGlsZSAodXNlZCA8IFBMQU4ubGVuZ3RoKSB7ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBwbGFuCiAgICAgIGNvbnN0IFtweCwgcHldID0gUExBTlt1c2VkKytdOwogICAgICBpZiAoaW5CKGJvYXJkLCBweCwgcHkpICYmIGJvYXJkW3B5XVtweF0gPT09ICcuJykgeyBtdiA9IFtweCwgcHldOyBicmVhazsgfQogICAgfQogICAgaWYgKCFtdikgZm9yIChjb25zdCBbeCwgeV0gb2YgZW1wdGllcyhib2FyZCkpIHsgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGJsb2NrIG9wZW4gdGhyZWUKICAgICAgZm9yIChjb25zdCBSIG9mIHJpdmFscykgaWYgKGlzT3BlblRocmVlKGJvYXJkLCB4LCB5LCBSKSkgeyBtdiA9IFt4LCB5XTsgYnJlYWs7IH0KICAgICAgaWYgKG12KSBicmVhazsKICAgIH0KICAgIGlmICghbXYpIHsKICAgICAgY29uc3QgYyA9IChib2FyZC5sZW5ndGggLSAxKSAvIDI7CiAgICAgIG12ID0gZW1wdGllcyhib2FyZCkuc29ydCgoYSwgYikgPT4gKE1hdGguYWJzKGFbMF0gLSBjKSArIE1hdGguYWJzKGFbMV0gLSBjKSkgLSAoTWF0aC5hYnMoYlswXSAtIGMpICsgTWF0aC5hYnMoYlsxXSAtIGMpKSlbMF07CiAgICB9CiAgICBjb25zdCBtciA9IGF3YWl0IHJlcSgnUE9TVCcsICcvYXBpL2dhbWVzLycgKyBDT0RFICsgJy9tb3ZlcycsIHsgeDogbXZbMF0sIHk6IG12WzFdIH0sIHsgYXV0aG9yaXphdGlvbjogJ0JlYXJlciAnICsgVE9LRU4gfSk7CiAgICBpZiAobXIuc3RhdHVzID09PSA0MDkpIHsgYXdhaXQgc2xlZXAoMTUwKTsgY29udGludWU7IH0gICAvLyBzdGFsZSB0dXJuIOKAlCByZWZyZXNoCiAgICBpZiAobXIuc3RhdHVzICE9PSAyMDApIHsgY29uc29sZS5lcnJvcihgW2NsaWVudCBzZWF0ICR7U0VBVH1dIG1vdmUgJHttdn0gcmVqZWN0ZWRgLCBtci5zdGF0dXMsIG1yLmpzb24gJiYgbXIuanNvbi5lcnJvcik7IGF3YWl0IHNsZWVwKFBPTEwpOyBjb250aW51ZTsgfQogICAgY29uc29sZS5sb2coYFtjbGllbnQgc2VhdCAke1NFQVR9ICR7bWUuY29sb3J9XSBwbGF5ICgke212WzBdfSwke212WzFdfSkgLT4gJHttci5qc29uLnN0YXR1cyAhPT0gJ3BsYXlpbmcnID8gJ0ZJTkFMOiAnICsgbXIuanNvbi5zdGF0dXMgOiAnb2snfWApOwogIH0KfQptYWluKCkuY2F0Y2goZSA9PiB7IGNvbnNvbGUuZXJyb3IoJ1tjbGllbnRdIGZhdGFsOicsIGUubWVzc2FnZSk7IHByb2Nlc3MuZXhpdCgxKTsgfSk7Cg==
+'use strict';
+/*
+ * tests/client_player.js — scripted seat client used by play_test.sh.
+ * Acts like a human player over the public API (this is what curl + a small
+ * loop would do; keeping it as a node file makes the test deterministic).
+ *
+ * Decision order on your turn:
+ *   1) win now (would complete >=5 for my color)
+ *   2) block any NON-friendly opponent's four (they would complete >=5)
+ *   3) play next planned cell (skipping occupied ones)
+ *   4) block a friendly-threatening open three from non-friendlies
+ *   5) fallback: nearest empty cell to center
+ *
+ * --friendly can be given twice: e.g. seat0 uses --friendly blue --friendly red
+ * meaning colors that must NOT be defended-blocked by this client.
+ */
+const http = require('node:http');
+const args = process.argv.slice(2);
+function argAll(name) { return args.map((a, i) => (a === '--' + name ? args[i + 1] : null)).filter(Boolean); }
+function arg(name, dflt) { const v = argAll(name); return v.length ? v[0] : dflt; }
+const URL_BASE = arg('url', 'http://127.0.0.1:8787');
+const CODE = arg('code', '');
+const TOKEN = arg('token', '');
+const SEAT = Number(arg('seat', 0));
+const FRIENDLY = argAll('friendly');           // colors this client never blocks
+const PLAN = (arg('plan', '') || '').split(';').map(s => s.trim()).filter(Boolean)
+  .map(s => s.split(',').map(Number));
+const POLL = Number(arg('poll', 800));
+
+function req(method, p, body, headers) {
+  return new Promise((resolve, reject) => {
+    const u = new URL(URL_BASE + p);
+    const data = body === undefined ? null : JSON.stringify(body);
+    const r = http.request({
+      method, hostname: u.hostname, port: u.port || 80, path: u.pathname,
+      headers: Object.assign({ 'content-type': 'application/json' }, data ? { 'content-length': Buffer.byteLength(data) } : {}, headers || {}),
+    }, res => {
+      let b = '';
+      res.on('data', c => b += c);
+      res.on('end', () => resolve({ status: res.statusCode, json: (() => { try { return JSON.parse(b); } catch { return null; } })() }));
+    });
+    r.on('error', reject);
+    if (data) r.write(data);
+    r.end();
+  });
+}
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+function inB(board, x, y) { return x >= 0 && y >= 0 && y < board.length && x < board[0].length && x >= 0; }
+function runLen(board, x, y, L) {
+  board[y][x] = L;
+  let best = 0;
+  for (const [dx, dy] of [[1, 0], [0, 1], [1, 1], [1, -1]]) {
+    let n = 1;
+    for (const sg of [1, -1]) {
+      let px = x + dx * sg, py = y + dy * sg;
+      while (inB(board, px, py) && board[py][px] === L) { n++; px += dx * sg; py += dy * sg; }
+    }
+    best = Math.max(best, n);
+  }
+  board[y][x] = '.';
+  return best;
+}
+function isOpenThree(board, x, y, L) {
+  // placing here makes an open three exactly (len 3, two open ends on that run)
+  board[y][x] = L;
+  let hit = false;
+  for (const [dx, dy] of [[1, 0], [0, 1], [1, 1], [1, -1]]) {
+    let n = 1;
+    for (const sg of [1, -1]) {
+      let px = x + dx * sg, py = y + dy * sg;
+      while (inB(board, px, py) && board[py][px] === L) { n++; px += dx * sg; py += dy * sg; }
+      var openCell = inB(board, px, py) && board[py][px] === '.';
+      if (n >= 3 && openCell) { /* count ends below */ }
+    }
+    if (n === 3) {
+      let ends = 0;
+      for (const sg of [1, -1]) {
+        let px = x + dx * sg, py = y + dy * sg;
+        while (inB(board, px, py) && board[py][px] === L) { px += dx * sg; py += dy * sg; }
+        if (inB(board, px, py) && board[py][px] === '.') ends++;
+      }
+      if (ends === 2) hit = true;
+    }
+  }
+  board[y][x] = '.';
+  return hit;
+}
+function empties(board) {
+  const out = [];
+  for (let y = 0; y < board.length; y++) for (let x = 0; x < board[y].length; x++) if (board[y][x] === '.') out.push([x, y]);
+  return out;
+}
+const LET = c => ({ red: 'R', blue: 'B', green: 'G', yellow: 'Y' })[c];
+
+async function main() {
+  let used = 0;
+  console.log(`[client seat ${SEAT}] online plan=${PLAN.length}`);
+  for (;;) {
+    const r = await req('GET', '/api/games/' + CODE);
+    if (r.status !== 200) { console.error('[client] state error', r.status, r.json); await sleep(POLL); continue; }
+    const st = r.json;
+    if (st.status !== 'playing') { console.log(`[client seat ${SEAT}] finished: ${st.status}`); return; }
+    const me = st.players[SEAT];
+    if (st.turn !== me.color) { await sleep(POLL); continue; }
+    const L = LET(me.color);
+    const rivals = st.players.filter(p => !p.resigned && p.color !== me.color && !FRIENDLY.includes(p.color)).map(p => LET(p.color));
+    const board = st.board;
+    let mv = null;
+    for (const [x, y] of empties(board)) if (runLen(board, x, y, L) >= 5) { mv = [x, y]; break; }          // win now
+    if (!mv) for (const [x, y] of empties(board)) {                                                        // block four
+      for (const R of rivals) if (runLen(board, x, y, R) >= 5) { mv = [x, y]; break; }
+      if (mv) break;
+    }
+    if (!mv) while (used < PLAN.length) {                                                                 // plan
+      const [px, py] = PLAN[used++];
+      if (inB(board, px, py) && board[py][px] === '.') { mv = [px, py]; break; }
+    }
+    if (!mv) for (const [x, y] of empties(board)) {                                                        // block open three
+      for (const R of rivals) if (isOpenThree(board, x, y, R)) { mv = [x, y]; break; }
+      if (mv) break;
+    }
+    if (!mv) {
+      const c = (board.length - 1) / 2;
+      mv = empties(board).sort((a, b) => (Math.abs(a[0] - c) + Math.abs(a[1] - c)) - (Math.abs(b[0] - c) + Math.abs(b[1] - c)))[0];
+    }
+    const mr = await req('POST', '/api/games/' + CODE + '/moves', { x: mv[0], y: mv[1] }, { authorization: 'Bearer ' + TOKEN });
+    if (mr.status === 409) { await sleep(150); continue; }   // stale turn — refresh
+    if (mr.status !== 200) { console.error(`[client seat ${SEAT}] move ${mv} rejected`, mr.status, mr.json && mr.json.error); await sleep(POLL); continue; }
+    console.log(`[client seat ${SEAT} ${me.color}] play (${mv[0]},${mv[1]}) -> ${mr.json.status !== 'playing' ? 'FINAL: ' + mr.json.status : 'ok'}`);
+  }
+}
+main().catch(e => { console.error('[client] fatal:', e.message); process.exit(1); });

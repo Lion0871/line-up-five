@@ -1,1 +1,330 @@
-J3VzZSBzdHJpY3QnOwovKiBMaW5lLXVwIEZpdmUg4oCUIGF1dGhvcml0YXRpdmUgZ2FtZSBzZXJ2ZXIgKE5vZGUgMjIgc3RkbGliIG9ubHkpLiAqLwpjb25zdCBodHRwID0gcmVxdWlyZSgnbm9kZTpodHRwJyk7CmNvbnN0IGZzID0gcmVxdWlyZSgnbm9kZTpmcycpOwpjb25zdCBwYXRoID0gcmVxdWlyZSgnbm9kZTpwYXRoJyk7CmNvbnN0IGNyeXB0byA9IHJlcXVpcmUoJ25vZGU6Y3J5cHRvJyk7Cgpjb25zdCBST09UID0gcGF0aC5qb2luKF9fZGlybmFtZSwgJy4uJyk7CmNvbnN0IFZBUl9ESVIgPSBwcm9jZXNzLmVudi5WQVJfRElSIHx8IHBhdGguam9pbihST09ULCAndmFyJywgJ2dhbWVzJyk7CmNvbnN0IFBVQkxJQ19ESVIgPSBwYXRoLmpvaW4oUk9PVCwgJ2FwcCcsICdwdWJsaWMnKTsKY29uc3QgUE9SVCA9IE51bWJlcihwcm9jZXNzLmVudi5QT1JUIHx8IDg3ODcpOwpjb25zdCBSQVRFX0xJTUlUX1BFUl9NSU4gPSBOdW1iZXIocHJvY2Vzcy5lbnYuUkFURV9MSU1JVF9QRVJfTUlOIHx8IDYwKTsKCmNvbnN0IEJPQVJEX1NJWkUgPSAxMzsgICAgICAgICAgICAgICAvLyBmaXhlZCBwZXIgcnVsZXMKY29uc3QgTUFYX1BMQVlFUlMgPSA0Owpjb25zdCBDT0xPUlMgPSBbJ3JlZCcsICdibHVlJywgJ2dyZWVuJywgJ3llbGxvdyddOwpjb25zdCBMRVRURVIgPSB7IHJlZDogJ1InLCBibHVlOiAnQicsIGdyZWVuOiAnRycsIHllbGxvdzogJ1knIH07CmNvbnN0IExFVFRFUlMgPSB7IFI6ICdyZWQnLCBCOiAnYmx1ZScsIEc6ICdncmVlbicsIFk6ICd5ZWxsb3cnIH07CmNvbnN0IE1BWF9NT1ZFU19QRVJfU0VBVCA9IDQwOyAgICAgICAvLyB0aW1lLWxpbWl0IHJ1bGU6IGRyYXcgYWZ0ZXIgZXZlcnlvbmUgbWFkZSA0MCBtb3Zlcwpjb25zdCBDT0RFX1JFID0gL15bQS1aMC05XXs2fSQvOwoKY29uc3QgZ2FtZXMgPSBuZXcgTWFwKCk7CgovKiAtLS0tLS0tLS0tLS0tLS0tIHBlcnNpc3RlbmNlIC0tLS0tLS0tLS0tLS0tLS0gKi8KZnVuY3Rpb24gcGVyc2lzdChnKSB7CiAgY29uc3QgcCA9IHBhdGguam9pbihWQVJfRElSLCBnLmNvZGUgKyAnLmpzb24nKTsKICBjb25zdCB0ID0gcCArICcudG1wJzsKICBmcy53cml0ZUZpbGVTeW5jKHQsIEpTT04uc3RyaW5naWZ5KGcpKTsKICBmcy5yZW5hbWVTeW5jKHQsIHApOwp9CmZ1bmN0aW9uIGxvYWRHYW1lcygpIHsKICBmcy5ta2RpclN5bmMoVkFSX0RJUiwgeyByZWN1cnNpdmU6IHRydWUgfSk7CiAgZm9yIChjb25zdCBmIG9mIGZzLnJlYWRkaXJTeW5jKFZBUl9ESVIpKSB7CiAgICBpZiAoIWYuZW5kc1dpdGgoJy5qc29uJykpIGNvbnRpbnVlOwogICAgY29uc3QgY29kZSA9IGYuc2xpY2UoMCwgLTUpOwogICAgaWYgKCFDT0RFX1JFLnRlc3QoY29kZSkpIGNvbnRpbnVlOwogICAgdHJ5IHsKICAgICAgY29uc3QgZyA9IEpTT04ucGFyc2UoZnMucmVhZEZpbGVTeW5jKHBhdGguam9pbihWQVJfRElSLCBmKSwgJ3V0ZjgnKSk7CiAgICAgIGZvciAoY29uc3QgcyBvZiBnLnNlYXRzKSBzLm1vdmVzID0gZy5oaXN0b3J5LmZpbHRlcihoID0+IGguc2VhdCA9PT0gcy5zZWF0KS5sZW5ndGg7CiAgICAgIGdhbWVzLnNldChjb2RlLCBnKTsKICAgIH0gY2F0Y2ggKGUpIHsgY29uc29sZS5lcnJvcignc2tpcCcsIGYsIGUubWVzc2FnZSk7IH0KICB9Cn0KCi8qIC0tLS0tLS0tLS0tLS0tLS0gcnVsZXMgaGVscGVycyAtLS0tLS0tLS0tLS0tLS0tICovCmZ1bmN0aW9uIGluQihnLCB4LCB5KSB7IHJldHVybiB4ID49IDAgJiYgeSA+PSAwICYmIHggPCBnLnNpemUgJiYgeSA8IGcuc2l6ZTsgfQpmdW5jdGlvbiBsaW5lQ2VsbHMoZywgeCwgeSwgTCkgewogIC8vIGNlbGxzIG9mIHRoZSBsb25nZXN0IHJ1biB0aHJvdWdoICh4LHkpIGNvbnRhaW5pbmcgbGV0dGVyIEwgKGFzc3VtZXMgYm9hcmRbeF0gc2V0KQogIGNvbnN0IGRpcnMgPSBbWzEsIDBdLCBbMCwgMV0sIFsxLCAxXSwgWzEsIC0xXV07CiAgZm9yIChjb25zdCBbZHgsIGR5XSBvZiBkaXJzKSB7CiAgICBjb25zdCBjZWxscyA9IFtbeCwgeV1dOwogICAgZm9yIChjb25zdCBzZyBvZiBbMSwgLTFdKSB7CiAgICAgIGxldCBweCA9IHggKyBkeCAqIHNnLCBweSA9IHkgKyBkeSAqIHNnOwogICAgICB3aGlsZSAoaW5CKGcsIHB4LCBweSkgJiYgZy5ib2FyZFtweV1bcHhdID09PSBMKSB7IGNlbGxzLnB1c2goW3B4LCBweV0pOyBweCArPSBkeCAqIHNnOyBweSArPSBkeSAqIHNnOyB9CiAgICB9CiAgICBpZiAoY2VsbHMubGVuZ3RoID49IDUpIHJldHVybiBjZWxsczsKICB9CiAgcmV0dXJuIG51bGw7Cn0KZnVuY3Rpb24gcnVuTGVuKGcsIHgsIHksIEwpIHsKICAvLyBsb25nZXN0IHJ1biBsZW5ndGggdGhhdCB3b3VsZCByZXN1bHQgZnJvbSBwbGFjaW5nIGxldHRlciBMIGF0ICh4LHkpIChjZWxsIGFzc3VtZWQgZW1wdHkpCiAgZy5ib2FyZFt5XVt4XSA9IEw7CiAgY29uc3QgZGlycyA9IFtbMSwgMF0sIFswLCAxXSwgWzEsIDFdLCBbMSwgLTFdXTsKICBsZXQgYmVzdCA9IDA7CiAgZm9yIChjb25zdCBbZHgsIGR5XSBvZiBkaXJzKSB7CiAgICBsZXQgbiA9IDE7CiAgICBmb3IgKGNvbnN0IHNnIG9mIFsxLCAtMV0pIHsKICAgICAgbGV0IHB4ID0geCArIGR4ICogc2csIHB5ID0geSArIGR5ICogc2c7CiAgICAgIHdoaWxlIChpbkIoZywgcHgsIHB5KSAmJiBnLmJvYXJkW3B5XVtweF0gPT09IEwpIHsgbisrOyBweCArPSBkeCAqIHNnOyBweSArPSBkeSAqIHNnOyB9CiAgICB9CiAgICBpZiAobiA+IGJlc3QpIGJlc3QgPSBuOwogIH0KICBnLmJvYXJkW3ldW3hdID0gJy4nOwogIHJldHVybiBiZXN0Owp9CmZ1bmN0aW9uIG9wZW5FbmRzKGcsIHgsIHksIEwpIHsKICAvLyBob3cgbWFueSBvcGVuIGVuZHMgdGhlIHJ1biB0aHJvdWdoICh4LHkpIGhhcyAocnVuIG9mIGFueSBsZW5ndGgpCiAgbGV0IGVuZHMgPSAwOwogIGNvbnN0IGRpcnMgPSBbWzEsIDBdLCBbMCwgMV0sIFsxLCAxXSwgWzEsIC0xXV07CiAgZm9yIChjb25zdCBbZHgsIGR5XSBvZiBkaXJzKSB7CiAgICBmb3IgKGNvbnN0IHNnIG9mIFsxLCAtMV0pIHsKICAgICAgbGV0IHB4ID0geCArIGR4ICogc2csIHB5ID0geSArIGR5ICogc2c7CiAgICAgIHdoaWxlIChpbkIoZywgcHgsIHB5KSAmJiBnLmJvYXJkW3B5XVtweF0gPT09IEwpIHsgcHggKz0gZHggKiBzZzsgcHkgKz0gZHkgKiBzZzsgfQogICAgICBpZiAoaW5CKGcsIHB4LCBweSkgJiYgZy5ib2FyZFtweV1bcHhdID09PSAnLicpIGVuZHMrKzsKICAgIH0KICB9CiAgcmV0dXJuIGVuZHM7Cn0KZnVuY3Rpb24gYWN0aXZlU2VhdHMoZykgeyByZXR1cm4gZy5zZWF0cy5maWx0ZXIocyA9PiAhcy5yZXNpZ25lZCk7IH0KZnVuY3Rpb24gZnVsbEJvYXJkKGcpIHsgcmV0dXJuIGcuYm9hcmQuZXZlcnkocm93ID0+IHJvdy5ldmVyeShjID0+IGMgIT09ICcuJykpOyB9CmZ1bmN0aW9uIG5leHRUdXJuKGcpIHsKICBjb25zdCBuID0gZy5zZWF0cy5sZW5ndGg7CiAgZm9yIChsZXQgaSA9IDE7IGkgPD0gbjsgaSsrKSB7CiAgICBjb25zdCBpZHggPSAoZy50dXJuU2VhdCArIGkpICUgbjsKICAgIGNvbnN0IHMgPSBnLnNlYXRzW2lkeF07CiAgICBpZiAoIXMucmVzaWduZWQgJiYgcy5tb3ZlcyA8IE1BWF9NT1ZFU19QRVJfU0VBVCkgeyBnLnR1cm5TZWF0ID0gaWR4OyByZXR1cm47IH0KICB9Cn0KZnVuY3Rpb24gZW5kQ2hlY2tBZnRlck1vdmUoZywgc2VhdCwgeCwgeSkgewogIGNvbnN0IEwgPSBMRVRURVJbc2VhdC5jb2xvcl07CiAgY29uc3QgY2VsbHMgPSBsaW5lQ2VsbHMoZywgeCwgeSwgTCk7CiAgaWYgKGNlbGxzKSB7CiAgICBnLnN0YXR1cyA9IHNlYXQuY29sb3IgKyAnIHdpbnMnOwogICAgZy53aW5MaW5lID0gY2VsbHM7CiAgICByZXR1cm47CiAgfQogIGNvbnN0IGFjdCA9IGFjdGl2ZVNlYXRzKGcpOwogIGlmIChmdWxsQm9hcmQoZykgfHwgKGFjdC5sZW5ndGggPiAwICYmIGFjdC5ldmVyeShzID0+IHMubW92ZXMgPj0gTUFYX01PVkVTX1BFUl9TRUFUKSkpIHsKICAgIGcuc3RhdHVzID0gJ2RyYXcnOwogICAgcmV0dXJuOwogIH0KICBuZXh0VHVybihnKTsKfQoKLyogLS0tLS0tLS0tLS0tLS0tLSB2aWV3cyAtLS0tLS0tLS0tLS0tLS0tICovCmZ1bmN0aW9uIHB1YmxpY1ZpZXcoZykgewogIHJldHVybiB7CiAgICBjb2RlOiBnLmNvZGUsCiAgICBzaXplOiBnLnNpemUsCiAgICBzdGFydENvbG9yOiBnLnN0YXJ0Q29sb3IsCiAgICBwbGF5ZXJzOiBnLnNlYXRzLm1hcChzID0+ICh7IHNlYXQ6IHMuc2VhdCwgY29sb3I6IHMuY29sb3IsIHJvbGU6IHMucm9sZSwgcmVzaWduZWQ6IHMucmVzaWduZWQsIG1vdmVzOiBzLm1vdmVzIH0pKSwKICAgIHR1cm46IGcuc3RhdHVzID09PSAncGxheWluZycgPyBnLnNlYXRzW2cudHVyblNlYXRdLmNvbG9yIDogbnVsbCwKICAgIGJvYXJkOiBnLmJvYXJkLAogICAgc3RhdHVzOiBnLnN0YXR1cywKICAgIHdpbkxpbmU6IGcud2luTGluZSB8fCBudWxsLAogICAgbW92ZU5vOiBnLmhpc3RvcnkubGVuZ3RoLAogIH07Cn0KZnVuY3Rpb24gbGVhZGVyYm9hcmQoKSB7CiAgY29uc3QgY291bnRzID0ge307CiAgbGV0IGRyYXdzID0gMCwgZmluaXNoZWQgPSAwLCBwbGF5aW5nID0gMDsKICBmb3IgKGNvbnN0IGcgb2YgZ2FtZXMudmFsdWVzKCkpIHsKICAgIGlmIChnLnN0YXR1cyA9PT0gJ3BsYXlpbmcnKSB7IHBsYXlpbmcrKzsgY29udGludWU7IH0KICAgIGZpbmlzaGVkKys7CiAgICBpZiAoZy5zdGF0dXMgPT09ICdkcmF3JykgeyBkcmF3cysrOyBjb250aW51ZTsgfQogICAgY29uc3QgYyA9IGcuc3RhdHVzLnJlcGxhY2UoLyB3aW5zJC8sICcnKTsKICAgIGNvdW50c1tjXSA9IChjb3VudHNbY10gfHwgMCkgKyAxOwogIH0KICByZXR1cm4geyBjb3VudHMsIGRyYXdzLCBmaW5pc2hlZCwgcGxheWluZyB9Owp9CgovKiAtLS0tLS0tLS0tLS0tLS0tIGh0dHAgcGx1bWJpbmcgLS0tLS0tLS0tLS0tLS0tLSAqLwpjb25zdCByYXRlID0gbmV3IE1hcCgpOwpmdW5jdGlvbiByYXRlTGltaXRlZChpcCkgewogIGNvbnN0IG5vdyA9IERhdGUubm93KCk7CiAgbGV0IGUgPSByYXRlLmdldChpcCk7CiAgaWYgKCFlIHx8IG5vdyAtIGUudCA+IDYwMDAwKSB7IGUgPSB7IHQ6IG5vdywgbjogMCB9OyByYXRlLnNldChpcCwgZSk7IH0KICBlLm4rKzsKICByZXR1cm4gZS5uID4gUkFURV9MSU1JVF9QRVJfTUlOOwp9CmZ1bmN0aW9uIHNlbmRKc29uKHJlcywgY29kZSwgb2JqKSB7CiAgY29uc3QgYm9keSA9IEpTT04uc3RyaW5naWZ5KG9iaik7CiAgcmVzLndyaXRlSGVhZChjb2RlLCB7ICdjb250ZW50LXR5cGUnOiAnYXBwbGljYXRpb24vanNvbjsgY2hhcnNldD11dGYtOCcgfSk7CiAgcmVzLmVuZChib2R5KTsKfQpmdW5jdGlvbiByZWFkQm9keShyZXEpIHsKICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgbGV0IHNpemUgPSAwOyBjb25zdCBjaHVua3MgPSBbXTsKICAgIHJlcS5vbignZGF0YScsIGMgPT4gewogICAgICBzaXplICs9IGMubGVuZ3RoOwogICAgICBpZiAoc2l6ZSA+IDY1NTM2KSB7IHJlamVjdChPYmplY3QuYXNzaWduKG5ldyBFcnJvcignYm9keSB0b28gbGFyZ2UnKSwgeyBzdGF0dXM6IDQxMyB9KSk7IHJlcS5kZXN0cm95KCk7IHJldHVybjsgfQogICAgICBjaHVua3MucHVzaChjKTsKICAgIH0pOwogICAgcmVxLm9uKCdlbmQnLCAoKSA9PiB7CiAgICAgIGlmICghY2h1bmtzLmxlbmd0aCkgcmV0dXJuIHJlc29sdmUoe30pOwogICAgICB0cnkgeyByZXNvbHZlKEpTT04ucGFyc2UoQnVmZmVyLmNvbmNhdChjaHVua3MpLnRvU3RyaW5nKCd1dGY4JykpKTsgfQogICAgICBjYXRjaCB7IHJlamVjdChPYmplY3QuYXNzaWduKG5ldyBFcnJvcignaW52YWxpZCBqc29uJyksIHsgc3RhdHVzOiA0MDAgfSkpOyB9CiAgICB9KTsKICAgIHJlcS5vbignZXJyb3InLCByZWplY3QpOwogIH0pOwp9CmZ1bmN0aW9uIGdlbkNvZGUoKSB7CiAgY29uc3QgQ1MgPSAnQUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVowMTIzNDU2Nzg5JzsKICBmb3IgKDs7KSB7CiAgICBsZXQgYyA9ICcnOwogICAgZm9yIChsZXQgaSA9IDA7IGkgPCA2OyBpKyspIGMgKz0gQ1NbY3J5cHRvLnJhbmRvbUludCgzNildOwogICAgaWYgKCFnYW1lcy5oYXMoYykgJiYgQ09ERV9SRS50ZXN0KGMpKSByZXR1cm4gYzsKICB9Cn0KZnVuY3Rpb24gaXNJbnQodikgeyByZXR1cm4gTnVtYmVyLmlzSW50ZWdlcih2KTsgfQoKLyogLS0tLS0tLS0tLS0tLS0tLSBoYW5kbGVycyAtLS0tLS0tLS0tLS0tLS0tICovCmZ1bmN0aW9uIGNyZWF0ZUdhbWUoYm9keSkgewogIGNvbnN0IHNpemUgPSBib2R5LnNpemUgPT09IHVuZGVmaW5lZCA/IEJPQVJEX1NJWkUgOiBib2R5LnNpemU7CiAgaWYgKCFpc0ludChzaXplKSB8fCBzaXplICE9PSBCT0FSRF9TSVpFKSB0aHJvdyBPYmplY3QuYXNzaWduKG5ldyBFcnJvcignc2l6ZSBtdXN0IGJlIDEzJyksIHsgc3RhdHVzOiA0MDAgfSk7CiAgY29uc3QgaHVtYW5zID0gYm9keS5odW1hbnM7CiAgaWYgKCFpc0ludChodW1hbnMpIHx8IGh1bWFucyA8IDAgfHwgaHVtYW5zID4gTUFYX1BMQVlFUlMpIHRocm93IE9iamVjdC5hc3NpZ24obmV3IEVycm9yKCdodW1hbnMgbXVzdCBiZSAwLi40JyksIHsgc3RhdHVzOiA0MDAgfSk7CiAgY29uc3QgcGxheWVycyA9IGJvZHkucGxheWVycyA9PT0gdW5kZWZpbmVkID8gNCA6IGJvZHkucGxheWVyczsKICBpZiAoIWlzSW50KHBsYXllcnMpIHx8IHBsYXllcnMgPCAyIHx8IHBsYXllcnMgPiBNQVhfUExBWUVSUykgdGhyb3cgT2JqZWN0LmFzc2lnbihuZXcgRXJyb3IoJ3BsYXllcnMgbXVzdCBiZSAyLi40JyksIHsgc3RhdHVzOiA0MDAgfSk7CiAgaWYgKGh1bWFucyA+IHBsYXllcnMpIHRocm93IE9iamVjdC5hc3NpZ24obmV3IEVycm9yKCdodW1hbnMgY2Fubm90IGV4Y2VlZCBwbGF5ZXJzJyksIHsgc3RhdHVzOiA0MDAgfSk7CiAgY29uc3Qgc3RhcnRDb2xvciA9IGJvZHkuc3RhcnRDb2xvciA9PT0gdW5kZWZpbmVkID8gJ3JlZCcgOiBib2R5LnN0YXJ0Q29sb3I7CiAgaWYgKCFDT0xPUlMuc2xpY2UoMCwgcGxheWVycykuaW5jbHVkZXMoc3RhcnRDb2xvcikpIHRocm93IE9iamVjdC5hc3NpZ24obmV3IEVycm9yKCdzdGFydENvbG9yIG11c3QgYmUgb25lIG9mICcgKyBDT0xPUlMuc2xpY2UoMCwgcGxheWVycykuam9pbignLCcpKSwgeyBzdGF0dXM6IDQwMCB9KTsKICBjb25zdCBzZWF0cyA9IENPTE9SUy5zbGljZSgwLCBwbGF5ZXJzKS5tYXAoKGMsIGkpID0+ICh7CiAgICBzZWF0OiBpLCBjb2xvcjogYywgcm9sZTogaSA8IGh1bWFucyA/ICdodW1hbicgOiAnYm90JywKICAgIHRva2VuOiBjcnlwdG8ucmFuZG9tQnl0ZXMoMTYpLnRvU3RyaW5nKCdoZXgnKSwgcmVzaWduZWQ6IGZhbHNlLCBtb3ZlczogMCwKICB9KSk7CiAgY29uc3QgZyA9IHsKICAgIGNvZGU6IGdlbkNvZGUoKSwKICAgIGNyZWF0ZWRBdDogbmV3IERhdGUoKS50b0lTT1N0cmluZygpLAogICAgc2l6ZSwgcGxheWVycywKICAgIGJvYXJkOiBBcnJheS5mcm9tKHsgbGVuZ3RoOiBzaXplIH0sICgpID0+IEFycmF5KHNpemUpLmZpbGwoJy4nKSksCiAgICBoaXN0b3J5OiBbXSwgc3RhdHVzOiAncGxheWluZycsIHdpbkxpbmU6IG51bGwsCiAgICBzZWF0cywgc3RhcnRDb2xvciwgdHVyblNlYXQ6IHNlYXRzLmZpbmRJbmRleChzID0+IHMuY29sb3IgPT09IHN0YXJ0Q29sb3IpLAogIH07CiAgZ2FtZXMuc2V0KGcuY29kZSwgZyk7CiAgcGVyc2lzdChnKTsKICByZXR1cm4gZzsKfQpmdW5jdGlvbiBnZXRHYW1lKGNvZGUpIHsKICBjb25zdCBnID0gZ2FtZXMuZ2V0KGNvZGUpOwogIGlmICghZyB8fCAhQ09ERV9SRS50ZXN0KGNvZGUpKSB0aHJvdyBPYmplY3QuYXNzaWduKG5ldyBFcnJvcignZ2FtZSBub3QgZm91bmQnKSwgeyBzdGF0dXM6IDQwNCB9KTsKICByZXR1cm4gZzsKfQpmdW5jdGlvbiBzZWF0QnlUb2tlbihnLCB0b2spIHsgcmV0dXJuIGcuc2VhdHMuZmluZChzID0+IHMudG9rZW4gPT09IHRvayk7IH0KZnVuY3Rpb24gYXV0aFNlYXQocmVxLCBnKSB7CiAgY29uc3QgaCA9IHJlcS5oZWFkZXJzWydhdXRob3JpemF0aW9uJ10gfHwgJyc7CiAgY29uc3QgbSA9IC9eQmVhcmVyIChbMC05YS1mXXszMn0pJC8uZXhlYyhoKTsKICBpZiAoIW0pIHRocm93IE9iamVjdC5hc3NpZ24obmV3IEVycm9yKCdtaXNzaW5nIG9yIG1hbGZvcm1lZCBBdXRob3JpemF0aW9uOiBCZWFyZXIgPHNlYXRUb2tlbj4nKSwgeyBzdGF0dXM6IDQwMSB9KTsKICBjb25zdCBzZWF0ID0gc2VhdEJ5VG9rZW4oZywgbVsxXSk7CiAgaWYgKCFzZWF0KSB0aHJvdyBPYmplY3QuYXNzaWduKG5ldyBFcnJvcigndW5rbm93biBzZWF0VG9rZW4gZm9yIHRoaXMgZ2FtZScpLCB7IHN0YXR1czogNDAxIH0pOwogIHJldHVybiBzZWF0Owp9Cgpjb25zdCBTVEFUSUNfTUFQID0gewogICcvJzogWydhcHAvcHVibGljL2luZGV4Lmh0bWwnLCAndGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04J10sCiAgJy9pbmRleC5odG1sJzogWydhcHAvcHVibGljL2luZGV4Lmh0bWwnLCAndGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04J10sCiAgJy9hcHAuanMnOiBbJ2FwcC9wdWJsaWMvYXBwLmpzJywgJ3RleHQvamF2YXNjcmlwdDsgY2hhcnNldD11dGYtOCddLAogICcvc3R5bGUuY3NzJzogWydhcHAvcHVibGljL3N0eWxlLmNzcycsICd0ZXh0L2NzczsgY2hhcnNldD11dGYtOCddLAogICcvYm90LmpzJzogWydib3Qvc2FtcGxlX2JvdC5qcycsICd0ZXh0L3BsYWluOyBjaGFyc2V0PXV0Zi04J10sCiAgJy9kb2NzJzogWydkb2NzL0FQSS5tZCcsICd0ZXh0L3BsYWluOyBjaGFyc2V0PXV0Zi04J10sCn07Cgphc3luYyBmdW5jdGlvbiBoYW5kbGUocmVxLCByZXMpIHsKICBjb25zdCBpcCA9IChyZXEuc29ja2V0ICYmIHJlcS5zb2NrZXQucmVtb3RlQWRkcmVzcykgfHwgJ3Vua25vd24nOwogIGlmIChyYXRlTGltaXRlZChpcCkpIHJldHVybiBzZW5kSnNvbihyZXMsIDQyOSwgeyBlcnJvcjogJ3JhdGUgbGltaXRlZCAoPicgKyBSQVRFX0xJTUlUX1BFUl9NSU4gKyAnIHJlcS9taW4pJyB9KTsKCiAgY29uc3QgdSA9IG5ldyBVUkwocmVxLnVybCwgJ2h0dHA6Ly94Jyk7CiAgY29uc3QgcCA9IHUucGF0aG5hbWU7CiAgY29uc3QgbSA9IHJlcS5tZXRob2Q7CgogIC8vIEFQSQogIGlmIChwID09PSAnL2FwaS9oZWFsdGh6JyAmJiAobSA9PT0gJ1BPU1QnIHx8IG0gPT09ICdHRVQnKSkgcmV0dXJuIHNlbmRKc29uKHJlcywgMjAwLCB7IG9rOiB0cnVlIH0pOwogIGlmIChwID09PSAnL2FwaS9sZWFkZXJib2FyZCcgJiYgbSA9PT0gJ0dFVCcpIHJldHVybiBzZW5kSnNvbihyZXMsIDIwMCwgbGVhZGVyYm9hcmQoKSk7CgogIGxldCBtbTsKICBpZiAocCA9PT0gJy9hcGkvZ2FtZXMnICYmIG0gPT09ICdQT1NUJykgewogICAgY29uc3QgYm9keSA9IGF3YWl0IHJlYWRCb2R5KHJlcSk7CiAgICBjb25zdCBnID0gY3JlYXRlR2FtZShib2R5KTsKICAgIHJldHVybiBzZW5kSnNvbihyZXMsIDIwMSwgewogICAgICBjb2RlOiBnLmNvZGUsCiAgICAgIHNlYXRzOiBnLnNlYXRzLm1hcChzID0+ICh7IHNlYXQ6IHMuc2VhdCwgY29sb3I6IHMuY29sb3IsIHJvbGU6IHMucm9sZSwgc2VhdFRva2VuOiBzLnRva2VuIH0pKSwKICAgICAgc3RhcnRDb2xvcjogZy5zdGFydENvbG9yLAogICAgICBib3RzRmlsbDogZy5zZWF0cy5zb21lKHMgPT4gcy5yb2xlID09PSAnYm90JyksCiAgICB9KTsKICB9CiAgaWYgKChtbSA9IHAubWF0Y2goL15cL2FwaVwvZ2FtZXNcLyhbXi9dKykkLykpICYmIG0gPT09ICdHRVQnKSB7CiAgICByZXR1cm4gc2VuZEpzb24ocmVzLCAyMDAsIHB1YmxpY1ZpZXcoZ2V0R2FtZShtbVsxXSkpKTsKICB9CiAgaWYgKChtbSA9IHAubWF0Y2goL15cL2FwaVwvZ2FtZXNcLyhbXi9dKylcL2pvaW4kLykpICYmIG0gPT09ICdQT1NUJykgewogICAgY29uc3QgZyA9IGdldEdhbWUobW1bMV0pOwogICAgY29uc3QgYm9keSA9IGF3YWl0IHJlYWRCb2R5KHJlcSk7CiAgICBpZiAoIWlzSW50KGJvZHkuc2VhdCkgfHwgYm9keS5zZWF0IDwgMCB8fCBib2R5LnNlYXQgPj0gZy5wbGF5ZXJzKSB0aHJvdyBPYmplY3QuYXNzaWduKG5ldyBFcnJvcignc2VhdCBtdXN0IGJlIDAuLicgKyAoZy5wbGF5ZXJzIC0gMSkpLCB7IHN0YXR1czogNDAwIH0pOwogICAgY29uc3Qgc2VhdCA9IGcuc2VhdHNbYm9keS5zZWF0XTsKICAgIGlmICh0eXBlb2YgYm9keS5zZWF0VG9rZW4gIT09ICdzdHJpbmcnIHx8IGJvZHkuc2VhdFRva2VuICE9PSBzZWF0LnRva2VuKSB0aHJvdyBPYmplY3QuYXNzaWduKG5ldyBFcnJvcignYmFkIHNlYXRUb2tlbiAoaXNzdWVkIGF0IGdhbWUgY3JlYXRpb247IG5vIHNlcGFyYXRlIHRva2VuIG9uIGpvaW4pJyksIHsgc3RhdHVzOiA0MDEgfSk7CiAgICBpZiAoc2VhdC5yZXNpZ25lZCkgdGhyb3cgT2JqZWN0LmFzc2lnbihuZXcgRXJyb3IoJ3NlYXQgcmVzaWduZWQnKSwgeyBzdGF0dXM6IDQxMCB9KTsKICAgIHJldHVybiBzZW5kSnNvbihyZXMsIDIwMCwgeyBvazogdHJ1ZSwgc2VhdDogc2VhdC5zZWF0LCBjb2xvcjogc2VhdC5jb2xvciB9KTsKICB9CiAgaWYgKChtbSA9IHAubWF0Y2goL15cL2FwaVwvZ2FtZXNcLyhbXi9dKylcL21vdmVzJC8pKSAmJiBtID09PSAnUE9TVCcpIHsKICAgIGNvbnN0IGcgPSBnZXRHYW1lKG1tWzFdKTsKICAgIGNvbnN0IHNlYXQgPSBhdXRoU2VhdChyZXEsIGcpOwogICAgaWYgKGcuc3RhdHVzICE9PSAncGxheWluZycpIHRocm93IE9iamVjdC5hc3NpZ24obmV3IEVycm9yKCdnYW1lIGZpbmlzaGVkOiAnICsgZy5zdGF0dXMpLCB7IHN0YXR1czogNDA5IH0pOwogICAgaWYgKHNlYXQucmVzaWduZWQpIHRocm93IE9iamVjdC5hc3NpZ24obmV3IEVycm9yKCdzZWF0IHJlc2lnbmVkJyksIHsgc3RhdHVzOiA0MTAgfSk7CiAgICBjb25zdCBib2R5ID0gYXdhaXQgcmVhZEJvZHkocmVxKTsKICAgIGNvbnN0IHsgeCwgeSB9ID0gYm9keTsKICAgIGlmICghaXNJbnQoeCkgfHwgIWlzSW50KHkpIHx8IHggPCAwIHx8IHkgPCAwIHx8IHggPj0gZy5zaXplIHx8IHkgPj0gZy5zaXplKQogICAgICB0aHJvdyBPYmplY3QuYXNzaWduKG5ldyBFcnJvcigneCx5IG11c3QgYmUgaW50ZWdlcnMgMC4uJyArIChnLnNpemUgLSAxKSksIHsgc3RhdHVzOiA0MDAgfSk7CiAgICBpZiAoZy50dXJuU2VhdCAhPT0gc2VhdC5zZWF0KQogICAgICB0aHJvdyBPYmplY3QuYXNzaWduKG5ldyBFcnJvcignbm90IHlvdXIgdHVybiAodHVybjogJyArIGcuc2VhdHNbZy50dXJuU2VhdF0uY29sb3IgKyAnKScpLCB7IHN0YXR1czogNDA5IH0pOwogICAgaWYgKHNlYXQubW92ZXMgPj0gTUFYX01PVkVTX1BFUl9TRUFUKQogICAgICB0aHJvdyBPYmplY3QuYXNzaWduKG5ldyBFcnJvcignc2VhdCBhbHJlYWR5IG1hZGUgJyArIE1BWF9NT1ZFU19QRVJfU0VBVCArICcgbW92ZXMnKSwgeyBzdGF0dXM6IDQwOSB9KTsKICAgIGlmIChnLmJvYXJkW3ldW3hdICE9PSAnLicpIHRocm93IE9iamVjdC5hc3NpZ24obmV3IEVycm9yKCdjZWxsIGFscmVhZHkgb2NjdXBpZWQnKSwgeyBzdGF0dXM6IDQwMH0pOwogICAgZy5ib2FyZFt5XVt4XSA9IExFVFRFUltzZWF0LmNvbG9yXTsKICAgIHNlYXQubW92ZXMrKzsKICAgIGcuaGlzdG9yeS5wdXNoKHsgc2VhdDogc2VhdC5zZWF0LCBjb2xvcjogc2VhdC5jb2xvciwgeCwgeSwgYXQ6IG5ldyBEYXRlKCkudG9JU09TdHJpbmcoKSB9KTsKICAgIGVuZENoZWNrQWZ0ZXJNb3ZlKGcsIHNlYXQsIHgsIHkpOwogICAgcGVyc2lzdChnKTsKICAgIHJldHVybiBzZW5kSnNvbihyZXMsIDIwMCwgT2JqZWN0LmFzc2lnbih7IG9rOiB0cnVlIH0sIHB1YmxpY1ZpZXcoZykpKTsKICB9CiAgaWYgKChtbSA9IHAubWF0Y2goL15cL2FwaVwvZ2FtZXNcLyhbXi9dKylcL3Jlc2lnbiQvKSkgJiYgbSA9PT0gJ1BPU1QnKSB7CiAgICBjb25zdCBnID0gZ2V0R2FtZShtbVsxXSk7CiAgICBjb25zdCBzZWF0ID0gYXV0aFNlYXQocmVxLCBnKTsKICAgIGlmIChnLnN0YXR1cyAhPT0gJ3BsYXlpbmcnKSB0aHJvdyBPYmplY3QuYXNzaWduKG5ldyBFcnJvcignZ2FtZSBmaW5pc2hlZDogJyArIGcuc3RhdHVzKSwgeyBzdGF0dXM6IDQwOSB9KTsKICAgIGlmIChzZWF0LnJlc2lnbmVkKSB0aHJvdyBPYmplY3QuYXNzaWduKG5ldyBFcnJvcignYWxyZWFkeSByZXNpZ25lZCcpLCB7IHN0YXR1czogNDA5IH0pOwogICAgc2VhdC5yZXNpZ25lZCA9IHRydWU7CiAgICBjb25zdCBhY3QgPSBhY3RpdmVTZWF0cyhnKTsKICAgIGlmIChhY3QubGVuZ3RoID09PSAwKSBnLnN0YXR1cyA9ICdkcmF3JzsKICAgIGVsc2UgaWYgKGFjdC5sZW5ndGggPT09IDEpIGcuc3RhdHVzID0gYWN0WzBdLmNvbG9yICsgJyB3aW5zJzsKICAgIGVsc2UgaWYgKGcudHVyblNlYXQgPT09IHNlYXQuc2VhdCkgbmV4dFR1cm4oZyk7CiAgICBwZXJzaXN0KGcpOwogICAgcmV0dXJuIHNlbmRKc29uKHJlcywgMjAwLCBPYmplY3QuYXNzaWduKHsgb2s6IHRydWUgfSwgcHVibGljVmlldyhnKSkpOwogIH0KICBpZiAoKG1tID0gcC5tYXRjaCgvXlwvYXBpXC9yZXBsYXlcLyhbXi9dKykkLykpICYmIG0gPT09ICdHRVQnKSB7CiAgICBjb25zdCBnID0gZ2V0R2FtZShtbVsxXSk7CiAgICByZXR1cm4gc2VuZEpzb24ocmVzLCAyMDAsIHsKICAgICAgY29kZTogZy5jb2RlLCBjcmVhdGVkQXQ6IGcuY3JlYXRlZEF0LCBzaXplOiBnLnNpemUsIHBsYXllcnM6IGcuc2VhdHMubWFwKHMgPT4gKHsgc2VhdDogcy5zZWF0LCBjb2xvcjogcy5jb2xvciwgcm9sZTogcy5yb2xlLCByZXNpZ25lZDogcy5yZXNpZ25lZCwgbW92ZXM6IHMubW92ZXMgfSkpLAogICAgICBzdGFydENvbG9yOiBnLnN0YXJ0Q29sb3IsIHN0YXR1czogZy5zdGF0dXMsIHdpbkxpbmU6IGcud2luTGluZSB8fCBudWxsLCBtb3ZlTm86IGcuaGlzdG9yeS5sZW5ndGgsIGhpc3Rvcnk6IGcuaGlzdG9yeSwKICAgIH0pOwogIH0KICBpZiAocC5zdGFydHNXaXRoKCcvYXBpLycpKSByZXR1cm4gc2VuZEpzb24ocmVzLCA0MDQsIHsgZXJyb3I6ICdub3QgZm91bmQ6ICcgKyBtICsgJyAnICsgcCB9KTsKCiAgLy8gc3RhdGljCiAgaWYgKG0gPT09ICdHRVQnICYmIFNUQVRJQ19NQVBbcF0pIHsKICAgIGNvbnN0IFtyZWwsIGN0eXBlXSA9IFNUQVRJQ19NQVBbcF07CiAgICB0cnkgewogICAgICBjb25zdCBidWYgPSBmcy5yZWFkRmlsZVN5bmMocGF0aC5qb2luKFJPT1QsIHJlbCkpOwogICAgICByZXMud3JpdGVIZWFkKDIwMCwgeyAnY29udGVudC10eXBlJzogY3R5cGUgfSk7CiAgICAgIHJldHVybiByZXMuZW5kKGJ1Zik7CiAgICB9IGNhdGNoIHsgcmV0dXJuIHNlbmRKc29uKHJlcywgNTAwLCB7IGVycm9yOiAnbWlzc2luZyBzdGF0aWMgZmlsZSAnICsgcmVsIH0pOyB9CiAgfQogIHJldHVybiBzZW5kSnNvbihyZXMsIDQwNCwgeyBlcnJvcjogJ25vdCBmb3VuZCcgfSk7Cn0KCmNvbnN0IHNlcnZlciA9IGh0dHAuY3JlYXRlU2VydmVyKChyZXEsIHJlcykgPT4gewogIGhhbmRsZShyZXEsIHJlcykuY2F0Y2goZXJyID0+IHsKICAgIHNlbmRKc29uKHJlcywgZXJyLnN0YXR1cyB8fCA1MDAsIHsgZXJyb3I6IGVyci5tZXNzYWdlIHx8ICdzZXJ2ZXIgZXJyb3InIH0pOwogIH0pOwp9KTsKCmxvYWRHYW1lcygpOwpzZXJ2ZXIubGlzdGVuKFBPUlQsICgpID0+IGNvbnNvbGUubG9nKCdsaW5ldXAtZml2ZSBzZXJ2ZXIgb24gOicgKyBQT1JUICsgJyBnYW1lcz0nICsgZ2FtZXMuc2l6ZSArICcgcmF0ZUxpbWl0PScgKyBSQVRFX0xJTUlUX1BFUl9NSU4gKyAnL21pbicpKTsK
+'use strict';
+/* Line-up Five — authoritative game server (Node 22 stdlib only). */
+const http = require('node:http');
+const fs = require('node:fs');
+const path = require('node:path');
+const crypto = require('node:crypto');
+
+const ROOT = path.join(__dirname, '..');
+const VAR_DIR = process.env.VAR_DIR || path.join(ROOT, 'var', 'games');
+const PUBLIC_DIR = path.join(ROOT, 'app', 'public');
+const PORT = Number(process.env.PORT || 8787);
+const RATE_LIMIT_PER_MIN = Number(process.env.RATE_LIMIT_PER_MIN || 60);
+
+const BOARD_SIZE = 13;               // fixed per rules
+const MAX_PLAYERS = 4;
+const COLORS = ['red', 'blue', 'green', 'yellow'];
+const LETTER = { red: 'R', blue: 'B', green: 'G', yellow: 'Y' };
+const LETTERS = { R: 'red', B: 'blue', G: 'green', Y: 'yellow' };
+const MAX_MOVES_PER_SEAT = 40;       // time-limit rule: draw after everyone made 40 moves
+const CODE_RE = /^[A-Z0-9]{6}$/;
+
+const games = new Map();
+
+/* ---------------- persistence ---------------- */
+function persist(g) {
+  const p = path.join(VAR_DIR, g.code + '.json');
+  const t = p + '.tmp';
+  fs.writeFileSync(t, JSON.stringify(g));
+  fs.renameSync(t, p);
+}
+function loadGames() {
+  fs.mkdirSync(VAR_DIR, { recursive: true });
+  for (const f of fs.readdirSync(VAR_DIR)) {
+    if (!f.endsWith('.json')) continue;
+    const code = f.slice(0, -5);
+    if (!CODE_RE.test(code)) continue;
+    try {
+      const g = JSON.parse(fs.readFileSync(path.join(VAR_DIR, f), 'utf8'));
+      for (const s of g.seats) s.moves = g.history.filter(h => h.seat === s.seat).length;
+      games.set(code, g);
+    } catch (e) { console.error('skip', f, e.message); }
+  }
+}
+
+/* ---------------- rules helpers ---------------- */
+function inB(g, x, y) { return x >= 0 && y >= 0 && x < g.size && y < g.size; }
+function lineCells(g, x, y, L) {
+  // cells of the longest run through (x,y) containing letter L (assumes board[x] set)
+  const dirs = [[1, 0], [0, 1], [1, 1], [1, -1]];
+  for (const [dx, dy] of dirs) {
+    const cells = [[x, y]];
+    for (const sg of [1, -1]) {
+      let px = x + dx * sg, py = y + dy * sg;
+      while (inB(g, px, py) && g.board[py][px] === L) { cells.push([px, py]); px += dx * sg; py += dy * sg; }
+    }
+    if (cells.length >= 5) return cells;
+  }
+  return null;
+}
+function runLen(g, x, y, L) {
+  // longest run length that would result from placing letter L at (x,y) (cell assumed empty)
+  g.board[y][x] = L;
+  const dirs = [[1, 0], [0, 1], [1, 1], [1, -1]];
+  let best = 0;
+  for (const [dx, dy] of dirs) {
+    let n = 1;
+    for (const sg of [1, -1]) {
+      let px = x + dx * sg, py = y + dy * sg;
+      while (inB(g, px, py) && g.board[py][px] === L) { n++; px += dx * sg; py += dy * sg; }
+    }
+    if (n > best) best = n;
+  }
+  g.board[y][x] = '.';
+  return best;
+}
+function openEnds(g, x, y, L) {
+  // how many open ends the run through (x,y) has (run of any length)
+  let ends = 0;
+  const dirs = [[1, 0], [0, 1], [1, 1], [1, -1]];
+  for (const [dx, dy] of dirs) {
+    for (const sg of [1, -1]) {
+      let px = x + dx * sg, py = y + dy * sg;
+      while (inB(g, px, py) && g.board[py][px] === L) { px += dx * sg; py += dy * sg; }
+      if (inB(g, px, py) && g.board[py][px] === '.') ends++;
+    }
+  }
+  return ends;
+}
+function activeSeats(g) { return g.seats.filter(s => !s.resigned); }
+function fullBoard(g) { return g.board.every(row => row.every(c => c !== '.')); }
+function nextTurn(g) {
+  const n = g.seats.length;
+  for (let i = 1; i <= n; i++) {
+    const idx = (g.turnSeat + i) % n;
+    const s = g.seats[idx];
+    if (!s.resigned && s.moves < MAX_MOVES_PER_SEAT) { g.turnSeat = idx; return; }
+  }
+}
+function endCheckAfterMove(g, seat, x, y) {
+  const L = LETTER[seat.color];
+  const cells = lineCells(g, x, y, L);
+  if (cells) {
+    g.status = seat.color + ' wins';
+    g.winLine = cells;
+    return;
+  }
+  const act = activeSeats(g);
+  if (fullBoard(g) || (act.length > 0 && act.every(s => s.moves >= MAX_MOVES_PER_SEAT))) {
+    g.status = 'draw';
+    return;
+  }
+  nextTurn(g);
+}
+
+/* ---------------- views ---------------- */
+function publicView(g) {
+  return {
+    code: g.code,
+    size: g.size,
+    startColor: g.startColor,
+    players: g.seats.map(s => ({ seat: s.seat, color: s.color, role: s.role, resigned: s.resigned, moves: s.moves })),
+    turn: g.status === 'playing' ? g.seats[g.turnSeat].color : null,
+    board: g.board,
+    status: g.status,
+    winLine: g.winLine || null,
+    moveNo: g.history.length,
+  };
+}
+function leaderboard() {
+  const counts = {};
+  let draws = 0, finished = 0, playing = 0;
+  for (const g of games.values()) {
+    if (g.status === 'playing') { playing++; continue; }
+    finished++;
+    if (g.status === 'draw') { draws++; continue; }
+    const c = g.status.replace(/ wins$/, '');
+    counts[c] = (counts[c] || 0) + 1;
+  }
+  return { counts, draws, finished, playing };
+}
+
+/* ---------------- http plumbing ---------------- */
+const rate = new Map();
+function rateLimited(ip) {
+  const now = Date.now();
+  let e = rate.get(ip);
+  if (!e || now - e.t > 60000) { e = { t: now, n: 0 }; rate.set(ip, e); }
+  e.n++;
+  return e.n > RATE_LIMIT_PER_MIN;
+}
+function sendJson(res, code, obj) {
+  const body = JSON.stringify(obj);
+  res.writeHead(code, { 'content-type': 'application/json; charset=utf-8' });
+  res.end(body);
+}
+function readBody(req) {
+  return new Promise((resolve, reject) => {
+    let size = 0; const chunks = [];
+    req.on('data', c => {
+      size += c.length;
+      if (size > 65536) { reject(Object.assign(new Error('body too large'), { status: 413 })); req.destroy(); return; }
+      chunks.push(c);
+    });
+    req.on('end', () => {
+      if (!chunks.length) return resolve({});
+      try { resolve(JSON.parse(Buffer.concat(chunks).toString('utf8'))); }
+      catch { reject(Object.assign(new Error('invalid json'), { status: 400 })); }
+    });
+    req.on('error', reject);
+  });
+}
+function genCode() {
+  const CS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
+  for (;;) {
+    let c = '';
+    for (let i = 0; i < 6; i++) c += CS[crypto.randomInt(36)];
+    if (!games.has(c) && CODE_RE.test(c)) return c;
+  }
+}
+function isInt(v) { return Number.isInteger(v); }
+
+/* ---------------- handlers ---------------- */
+function createGame(body) {
+  const size = body.size === undefined ? BOARD_SIZE : body.size;
+  if (!isInt(size) || size !== BOARD_SIZE) throw Object.assign(new Error('size must be 13'), { status: 400 });
+  const humans = body.humans;
+  if (!isInt(humans) || humans < 0 || humans > MAX_PLAYERS) throw Object.assign(new Error('humans must be 0..4'), { status: 400 });
+  const players = body.players === undefined ? 4 : body.players;
+  if (!isInt(players) || players < 2 || players > MAX_PLAYERS) throw Object.assign(new Error('players must be 2..4'), { status: 400 });
+  if (humans > players) throw Object.assign(new Error('humans cannot exceed players'), { status: 400 });
+  const startColor = body.startColor === undefined ? 'red' : body.startColor;
+  if (!COLORS.slice(0, players).includes(startColor)) throw Object.assign(new Error('startColor must be one of ' + COLORS.slice(0, players).join(',')), { status: 400 });
+  const seats = COLORS.slice(0, players).map((c, i) => ({
+    seat: i, color: c, role: i < humans ? 'human' : 'bot',
+    token: crypto.randomBytes(16).toString('hex'), resigned: false, moves: 0,
+  }));
+  const g = {
+    code: genCode(),
+    createdAt: new Date().toISOString(),
+    size, players,
+    board: Array.from({ length: size }, () => Array(size).fill('.')),
+    history: [], status: 'playing', winLine: null,
+    seats, startColor, turnSeat: seats.findIndex(s => s.color === startColor),
+  };
+  games.set(g.code, g);
+  persist(g);
+  return g;
+}
+function getGame(code) {
+  const g = games.get(code);
+  if (!g || !CODE_RE.test(code)) throw Object.assign(new Error('game not found'), { status: 404 });
+  return g;
+}
+function seatByToken(g, tok) { return g.seats.find(s => s.token === tok); }
+function authSeat(req, g) {
+  const h = req.headers['authorization'] || '';
+  const m = /^Bearer ([0-9a-f]{32})$/.exec(h);
+  if (!m) throw Object.assign(new Error('missing or malformed Authorization: Bearer <seatToken>'), { status: 401 });
+  const seat = seatByToken(g, m[1]);
+  if (!seat) throw Object.assign(new Error('unknown seatToken for this game'), { status: 401 });
+  return seat;
+}
+
+const STATIC_MAP = {
+  '/': ['app/public/index.html', 'text/html; charset=utf-8'],
+  '/index.html': ['app/public/index.html', 'text/html; charset=utf-8'],
+  '/app.js': ['app/public/app.js', 'text/javascript; charset=utf-8'],
+  '/style.css': ['app/public/style.css', 'text/css; charset=utf-8'],
+  '/bot.js': ['bot/sample_bot.js', 'text/plain; charset=utf-8'],
+  '/docs': ['docs/API.md', 'text/plain; charset=utf-8'],
+};
+
+async function handle(req, res) {
+  const ip = (req.socket && req.socket.remoteAddress) || 'unknown';
+  if (rateLimited(ip)) return sendJson(res, 429, { error: 'rate limited (>' + RATE_LIMIT_PER_MIN + ' req/min)' });
+
+  const u = new URL(req.url, 'http://x');
+  const p = u.pathname;
+  const m = req.method;
+
+  // API
+  if (p === '/api/healthz' && (m === 'POST' || m === 'GET')) return sendJson(res, 200, { ok: true });
+  if (p === '/api/leaderboard' && m === 'GET') return sendJson(res, 200, leaderboard());
+
+  let mm;
+  if (p === '/api/games' && m === 'POST') {
+    const body = await readBody(req);
+    const g = createGame(body);
+    return sendJson(res, 201, {
+      code: g.code,
+      seats: g.seats.map(s => ({ seat: s.seat, color: s.color, role: s.role, seatToken: s.token })),
+      startColor: g.startColor,
+      botsFill: g.seats.some(s => s.role === 'bot'),
+    });
+  }
+  if ((mm = p.match(/^\/api\/games\/([^/]+)$/)) && m === 'GET') {
+    return sendJson(res, 200, publicView(getGame(mm[1])));
+  }
+  if ((mm = p.match(/^\/api\/games\/([^/]+)\/join$/)) && m === 'POST') {
+    const g = getGame(mm[1]);
+    const body = await readBody(req);
+    if (!isInt(body.seat) || body.seat < 0 || body.seat >= g.players) throw Object.assign(new Error('seat must be 0..' + (g.players - 1)), { status: 400 });
+    const seat = g.seats[body.seat];
+    if (typeof body.seatToken !== 'string' || body.seatToken !== seat.token) throw Object.assign(new Error('bad seatToken (issued at game creation; no separate token on join)'), { status: 401 });
+    if (seat.resigned) throw Object.assign(new Error('seat resigned'), { status: 410 });
+    return sendJson(res, 200, { ok: true, seat: seat.seat, color: seat.color });
+  }
+  if ((mm = p.match(/^\/api\/games\/([^/]+)\/moves$/)) && m === 'POST') {
+    const g = getGame(mm[1]);
+    const seat = authSeat(req, g);
+    if (g.status !== 'playing') throw Object.assign(new Error('game finished: ' + g.status), { status: 409 });
+    if (seat.resigned) throw Object.assign(new Error('seat resigned'), { status: 410 });
+    const body = await readBody(req);
+    const { x, y } = body;
+    if (!isInt(x) || !isInt(y) || x < 0 || y < 0 || x >= g.size || y >= g.size)
+      throw Object.assign(new Error('x,y must be integers 0..' + (g.size - 1)), { status: 400 });
+    if (g.turnSeat !== seat.seat)
+      throw Object.assign(new Error('not your turn (turn: ' + g.seats[g.turnSeat].color + ')'), { status: 409 });
+    if (seat.moves >= MAX_MOVES_PER_SEAT)
+      throw Object.assign(new Error('seat already made ' + MAX_MOVES_PER_SEAT + ' moves'), { status: 409 });
+    if (g.board[y][x] !== '.') throw Object.assign(new Error('cell already occupied'), { status: 400});
+    g.board[y][x] = LETTER[seat.color];
+    seat.moves++;
+    g.history.push({ seat: seat.seat, color: seat.color, x, y, at: new Date().toISOString() });
+    endCheckAfterMove(g, seat, x, y);
+    persist(g);
+    return sendJson(res, 200, Object.assign({ ok: true }, publicView(g)));
+  }
+  if ((mm = p.match(/^\/api\/games\/([^/]+)\/resign$/)) && m === 'POST') {
+    const g = getGame(mm[1]);
+    const seat = authSeat(req, g);
+    if (g.status !== 'playing') throw Object.assign(new Error('game finished: ' + g.status), { status: 409 });
+    if (seat.resigned) throw Object.assign(new Error('already resigned'), { status: 409 });
+    seat.resigned = true;
+    const act = activeSeats(g);
+    if (act.length === 0) g.status = 'draw';
+    else if (act.length === 1) g.status = act[0].color + ' wins';
+    else if (g.turnSeat === seat.seat) nextTurn(g);
+    persist(g);
+    return sendJson(res, 200, Object.assign({ ok: true }, publicView(g)));
+  }
+  if ((mm = p.match(/^\/api\/replay\/([^/]+)$/)) && m === 'GET') {
+    const g = getGame(mm[1]);
+    return sendJson(res, 200, {
+      code: g.code, createdAt: g.createdAt, size: g.size, players: g.seats.map(s => ({ seat: s.seat, color: s.color, role: s.role, resigned: s.resigned, moves: s.moves })),
+      startColor: g.startColor, status: g.status, winLine: g.winLine || null, moveNo: g.history.length, history: g.history,
+    });
+  }
+  if (p.startsWith('/api/')) return sendJson(res, 404, { error: 'not found: ' + m + ' ' + p });
+
+  // static
+  if (m === 'GET' && STATIC_MAP[p]) {
+    const [rel, ctype] = STATIC_MAP[p];
+    try {
+      const buf = fs.readFileSync(path.join(ROOT, rel));
+      res.writeHead(200, { 'content-type': ctype });
+      return res.end(buf);
+    } catch { return sendJson(res, 500, { error: 'missing static file ' + rel }); }
+  }
+  return sendJson(res, 404, { error: 'not found' });
+}
+
+const server = http.createServer((req, res) => {
+  handle(req, res).catch(err => {
+    sendJson(res, err.status || 500, { error: err.message || 'server error' });
+  });
+});
+
+loadGames();
+server.listen(PORT, () => console.log('lineup-five server on :' + PORT + ' games=' + games.size + ' rateLimit=' + RATE_LIMIT_PER_MIN + '/min'));

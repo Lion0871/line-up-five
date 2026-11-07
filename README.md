@@ -1,1 +1,75 @@
-IyBMaW5lLXVwIEZpdmUKCkEgc21hbGwsIHBvbGlzaGVkICoqMTPDlzEzIGZyZWUtZm9yLWFsbCBnb21va3UqKiBmb3IgMuKAkzQgcGxheWVycyDigJQgaHVtYW5zIGFuZCBBSSBhZ2VudHMKc2hhcmUgdGhlIHNhbWUgbWF0Y2gsIG5vIGluc3RhbGwsIG5vIGxvZ2luLiBPbmUgZnJlZSBtb3ZlIHBlciB0dXJuOiBmaXJzdCB0byBsaW5lIHVwCioqZml2ZSBpbiBhIHJvdyoqIChhbnkgZGlyZWN0aW9uKSB3aW5zLiBObyBvcGVuaW5nIHJlc3RyaWN0aW9ucywgbm8gc3dhcC1vdmVyczsgc2VhdHMgdGhhdApodW1hbnMgZG8gbm90IGNsYWltIGFyZSBmaWxsZWQgYnkgc2VydmVyIGJvdHMuIEEgbWF0Y2ggZW5kcyBpbiBtaW51dGVzLgoKUnVsZXMgKG9uZSBwYXJhZ3JhcGgpOiBzaGFyZWQgMTPDlzEzIGJvYXJkLCAy4oCTNCBwbGF5ZXJzIChyZWQvYmx1ZS9ncmVlbi95ZWxsb3cpLCBvbmUgc3RvbmUKcGVyIHR1cm4gb24gYW4gZW1wdHkgY2VsbCwgZmlyc3QgdG8gY29ubmVjdCA1IG9yIG1vcmUgKGhvcml6b250YWwsIHZlcnRpY2FsLCBkaWFnb25hbCkKd2luczsgaWYgdGhlIGJvYXJkIGZpbGxzLCBvciBldmVyeSBwbGF5ZXIgaGFzIG1hZGUgNDAgbW92ZXMgd2l0aG91dCBhIGZpdmUsIHRoZSBtYXRjaCBpcwphIGRyYXc7IG5vIGZvcmJpZGRlbiBtb3Zlcywgbm8gc2lkZSBzd2FwIOKAlCB0aGUgY3JlYXRvciBwaWNrcyB0aGUgb3BlbmluZyBjb2xvciAocmVkIGJ5CmRlZmF1bHQpLgoKWmVybyBkZXBlbmRlbmNpZXM6IHB1cmUgTm9kZS5qcyDiiaUgMjIgKHN0ZGxpYiBvbmx5KS4gU2VydmVyLXJlc3RhcnQgbmV2ZXIgbG9zZXMgYSBtYXRjaAooZ2FtZXMgcGVyc2lzdCB0byBkaXNrKTsgdGhlIGJyb3dzZXIgVUkgYW5kIHRoZSBhZ2VudCBBUEkgYXJlIHNlcnZlZCBieSB0aGUgc2FtZSBzZXJ2ZXIuCgpDaGluZXNlIHJ1bGVzOiBbZG9jcy9SRUFETUUtemgubWRdKGRvY3MvUkVBRE1FLXpoLm1kKS4KCiMjIFJ1biBpdAoKYGBgYmFzaApub2RlIGFwcC9zZXJ2ZXIuanMgICAgICAgICAgICAjIGJhcmUgbWV0YWw6IFBPUlQ9ODc4NyBub2RlIGFwcC9zZXJ2ZXIuanMKIyBvciBpbiBhIGNvbnRhaW5lcjoKZG9ja2VyIHJ1biAtLXJtIC1wIDg3ODc6ODc4NyAtLXJlYWQtb25seSAtLXRtcGZzIC90bXAgXAogIC12ICQocHdkKTovd29yayAtdyAvd29yayBub2RlOjIyIG5vZGUgYXBwL3NlcnZlci5qcwpgYGAKCk9wZW4gYGh0dHA6Ly88aG9zdD46ODc4Ny9gIG9uIGFueSBwaG9uZSBicm93c2VyIOKAlCBjcmVhdGUgYSBtYXRjaCwgc2hhcmUgdGhlIGpvaW4gY29kZSwKaGFuZCB0aGUgc2FtZSBVUkwgdG8gYWdlbnRzLiBFbXB0eSBzZWF0cyBjYW4gYmUgZmlsbGVkIHdpdGggYSBib3QgYXQgY3JlYXRpb24gdGltZS4KCiMjIEFnZW50IEFQSQoKRnVsbCBkb2NzOiBbYGRvY3MvQVBJLm1kYF0oZG9jcy9BUEkubWQpIChzZXJ2ZWQgbGl2ZSBhdCBgL2RvY3NgOyB0aGUgc2FtcGxlIGJvdCBzb3VyY2UgaXMKc2VydmVkIGxpdmUgYXQgYC9ib3QuanNgKS4gVEw7RFI6CgpgYGBiYXNoCmN1cmwgLXMgLVggUE9TVCAkVVJML2FwaS9nYW1lcyAtSCAnY29udGVudC10eXBlOiBhcHBsaWNhdGlvbi9qc29uJyBcCiAgLWQgJ3siaHVtYW5zIjoyLCJwbGF5ZXJzIjo0fScgICAgICAgICAgIyAtPiBqb2luIGNvZGUgKyBzZWF0VG9rZW5zCmN1cmwgLXMgJFVSTC9hcGkvZ2FtZXMvPGNvZGU+ICAgICAgICAgICAgIyBwdWJsaWMgc3RhdGUgKG5ldmVyIGV4cG9zZXMgdG9rZW5zKQpjdXJsIC1zIC1YIFBPU1QgJFVSTC9hcGkvZ2FtZXMvPGNvZGU+L21vdmUgLUggJ2F1dGhvcml6YXRpb246IEJlYXJlciA8c2VhdFRva2VuPicgXAogIC1IICdjb250ZW50LXR5cGU6IGFwcGxpY2F0aW9uL2pzb24nIC1kICd7InNlYXQiOjAsIngiOjYsInkiOjd9JwpgYGAKClNhbXBsZSBib3QgKGRlY2lzaW9uIG9yZGVyOiBjb21wbGV0ZS01IOKGkiBibG9jay01IOKGkiBtYWtlIGFuIG9wZW4gdGhyZWUpOgoKYGBgYmFzaApub2RlIGJvdC9zYW1wbGVfYm90LmpzIC0tdXJsIGh0dHA6Ly88aG9zdD46ODc4NyAtLWNvZGUgPGNvZGU+IC0tdG9rZW4gPHNlYXRUb2tlbj4KYGBgCgojIyBUZXN0cwoKRW5kLXRvLWVuZCBzdWl0ZSAocGxheXMgYSBmdWxsIG1hdGNoIGFnYWluc3QgYSBsaXZlIHNlcnZlcjogbW92ZSB2YWxpZGF0aW9uLCBmaXZlCmRldGVjdGlvbiwgcmVwbGF5LCByZXN0YXJ0IHBlcnNpc3RlbmNlLCA0MjkgcmF0ZSBsaW1pdCwgcmVzaWduOyAyMSBhc3NlcnRpb25zKToKCmBgYGJhc2gKYmFzaCB0ZXN0cy9wbGF5X3Rlc3Quc2gKYGBgCgojIyBGdW4gYmFyCgpGb3VyLXdheSBuby1saW1pdCBnb21va3UgbmVlZHMgbm8gZGljZTogZXZlcnkgdHVybiBpcyBhIGxpdmUgcmVhZCBvZiB0aHJlZSB0aHJlYXRzIOKAlAp5b3VyIGxpbmUsIHRoZSBuZWFyZXN0IGVuZW15IGZvdXIsIGFuZCB3aGF0IHRoZSBuZXh0IHNlYXQgY2FuIHN0ZWFsLiBSYWNpbmcgaXMgcHVuaXNoZWQKYnkgZm91ci13YXkgaW50ZXJmZXJlbmNlOyB0aGVyZSBpcyBubyBkb21pbmFudCBvcGVuaW5nIHN0cmF0ZWd5IGZvciBhbGwgc2VhdHMgYXQgb25jZS4KCiMjIExheW91dAoKYGBgCmFwcC9zZXJ2ZXIuanMgICAgICAgICAgICAgICAgICAgYXV0aG9yaXRhdGl2ZSBnYW1lIHNlcnZlciAoSFRUUC9KU09OKQphcHAvcHVibGljL3tpbmRleCxhcHAsc3R5bGV9ICAgIHBsYWluIHZhbmlsbGEgZnJvbnQtZW5kICh0b3VjaC1mcmllbmRseSwgd2luLWxpbmUgaGlnaGxpZ2h0KQpib3Qvc2FtcGxlX2JvdC5qcyAgICAgICAgICAgICAgIHB1YmxpYy1BUEkgZXhhbXBsZSBwbGF5ZXIKZG9jcy9BUEkubWQgICAgICAgICAgICAgICAgICAgICBlbmRwb2ludHMgKyBjdXJsIGV4YW1wbGVzCnRlc3RzL3BsYXlfdGVzdC5zaCAgICAgICAgICAgICAgZTJlIHN1aXRlICgyMSBhc3NlcnRpb25zKQp2YXIvZ2FtZXMvKi5qc29uICAgICAgICAgICAgICAgIHBlcnNpc3RlZCBtYXRjaCBzdGF0ZSAoc3Vydml2ZXMgcmVzdGFydHMpClZFUlNJT04gICAgICAgICAgICAgICAgICAgICAgICAgYXBwIHZlcnNpb24KYGBgCg==
+# Line-up Five
+
+A small, polished **13×13 free-for-all gomoku** for 2–4 players — humans and AI agents
+share the same match, no install, no login. One free move per turn: first to line up
+**five in a row** (any direction) wins. No opening restrictions, no swap-overs; seats that
+humans do not claim are filled by server bots. A match ends in minutes.
+
+Rules (one paragraph): shared 13×13 board, 2–4 players (red/blue/green/yellow), one stone
+per turn on an empty cell, first to connect 5 or more (horizontal, vertical, diagonal)
+wins; if the board fills, or every player has made 40 moves without a five, the match is
+a draw; no forbidden moves, no side swap — the creator picks the opening color (red by
+default).
+
+Zero dependencies: pure Node.js ≥ 22 (stdlib only). Server-restart never loses a match
+(games persist to disk); the browser UI and the agent API are served by the same server.
+
+Chinese rules: [docs/README-zh.md](docs/README-zh.md).
+
+## Run it
+
+```bash
+node app/server.js            # bare metal: PORT=8787 node app/server.js
+# or in a container:
+docker run --rm -p 8787:8787 --read-only --tmpfs /tmp \
+  -v $(pwd):/work -w /work node:22 node app/server.js
+```
+
+Open `http://<host>:8787/` on any phone browser — create a match, share the join code,
+hand the same URL to agents. Empty seats can be filled with a bot at creation time.
+
+## Agent API
+
+Full docs: [`docs/API.md`](docs/API.md) (served live at `/docs`; the sample bot source is
+served live at `/bot.js`). TL;DR:
+
+```bash
+curl -s -X POST $URL/api/games -H 'content-type: application/json' \
+  -d '{"humans":2,"players":4}'          # -> join code + seatTokens
+curl -s $URL/api/games/<code>            # public state (never exposes tokens)
+curl -s -X POST $URL/api/games/<code>/move -H 'authorization: Bearer <seatToken>' \
+  -H 'content-type: application/json' -d '{"seat":0,"x":6,"y":7}'
+```
+
+Sample bot (decision order: complete-5 → block-5 → make an open three):
+
+```bash
+node bot/sample_bot.js --url http://<host>:8787 --code <code> --token <seatToken>
+```
+
+## Tests
+
+End-to-end suite (plays a full match against a live server: move validation, five
+detection, replay, restart persistence, 429 rate limit, resign; 21 assertions):
+
+```bash
+bash tests/play_test.sh
+```
+
+## Fun bar
+
+Four-way no-limit gomoku needs no dice: every turn is a live read of three threats —
+your line, the nearest enemy four, and what the next seat can steal. Racing is punished
+by four-way interference; there is no dominant opening strategy for all seats at once.
+
+## Layout
+
+```
+app/server.js                   authoritative game server (HTTP/JSON)
+app/public/{index,app,style}    plain vanilla front-end (touch-friendly, win-line highlight)
+bot/sample_bot.js               public-API example player
+docs/API.md                     endpoints + curl examples
+tests/play_test.sh              e2e suite (21 assertions)
+var/games/*.json                persisted match state (survives restarts)
+VERSION                         app version
+```

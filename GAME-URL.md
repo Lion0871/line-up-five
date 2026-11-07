@@ -1,1 +1,3 @@
-TGF0ZXN0IHB1YmxpYyBnYW1lIFVSTCAoYXV0by11cGRhdGVkIGJ5IGtlZXBhbGl2ZSBvbiB0dW5uZWwgcm90YXRpb24pOgoKaHR0cHM6Ly9jaHJvbmljLXZlbmRvci1wb3dlcnNlbGxlci1yb3VsZXR0ZS50cnljbG91ZGZsYXJlLmNvbQo=
+Latest public game URL (auto-updated by keepalive on tunnel rotation):
+
+https://chronic-vendor-powerseller-roulette.trycloudflare.com

@@ -1,1 +1,136 @@
-J3VzZSBzdHJpY3QnOwovKgogKiBMaW5lLXVwIEZpdmUg4oCUIHNhbXBsZSBib3QgKHB1YmxpYyBBUEkgcGxheWVyKS4KICoKICogVGhpcyBmaWxlIGlzIHRoZSBleGVjdXRhYmxlIEFQSSBkb2N1bWVudGF0aW9uLiBJdCBzaG93cyBob3cgYW55IGNsaWVudAogKiAoYm90IG9yIHNjcmlwdGVkIHBsYXllcikgcGxheXMgYSBnYW1lIHVzaW5nIG9ubHkgdGhlIHB1YmxpYyBIVFRQIEFQSS4KICoKICogRGVjaXNpb24gcHJpb3JpdHkgKHBlciBnYW1lIHNwZWMgImJvdCBmaWxsLWluIjoKICogICAxKSBpZiBwbGFjaW5nIGEgc3RvbmUgaGVyZSBjb21wbGV0ZXMgTVkgZml2ZS1pbi1hLXJvdyAoPj01KSAtPiBwbGF5IGl0ICh3aW4gbm93KS4KICogICAyKSBlbHNlIGlmIGFuIG9wcG9uZW50IHdvdWxkIGNvbXBsZXRlIGZpdmUtaW4tYS1yb3cgYXQgYSBjZWxsIC0+IG9jY3VweSBpdCAoYmxvY2spLgogKiAgIDMpIGVsc2UgbWFrZSBteSBvd24gIm9wZW4gdGhyZWUiIChleHRlbmQgbXkgbGluZTsgcHJlZmVyIGhpZ2hlc3QgcnVuICsgb3BlbiBlbmRzKS4KICogICBmYWxsYmFjazogbmVhcmVzdCBlbXB0eSBjZWxsIHRvIGJvYXJkIGNlbnRlci4KICoKICogVXNhZ2U6CiAqICAgbm9kZSBib3Qvc2FtcGxlX2JvdC5qcyAtLXVybCBodHRwOi8vSE9TVDpQT1JUIC0tY29kZSA8Ni1DT0RFPiAtLXRva2VuIDxzZWF0VG9rZW4+IFstLXBvbGwgMTUwMF0KICoKICogVGhlIHNlYXRUb2tlbiBpcyBpc3N1ZWQgYnkgdGhlIHNlcnZlciBhdCBnYW1lIGNyZWF0aW9uIChQT1NUIC9hcGkvZ2FtZXMpOwogKiB0aGUgYm90IGNvbmZpcm1zIGl0cyBzZWF0IHZpYSBQT1NUIC9hcGkvZ2FtZXMvPGNvZGU+L2pvaW4gKG5vIG5ldyB0b2tlbjogdGhlCiAqIGNyZWF0aW9uLXRpbWUgdG9rZW4gSVMgdGhlIGNyZWRlbnRpYWwpLgogKi8KY29uc3QgaHR0cCA9IHJlcXVpcmUoJ25vZGU6aHR0cCcpOwoKY29uc3QgYXJncyA9IHByb2Nlc3MuYXJndi5zbGljZSgyKTsKZnVuY3Rpb24gYXJnKG5hbWUsIGRmbHQpIHsKICBjb25zdCBpID0gYXJncy5pbmRleE9mKCctLScgKyBuYW1lKTsKICByZXR1cm4gaSA+PSAwID8gYXJnc1tpICsgMV0gOiBkZmx0Owp9CmNvbnN0IFVSTF9CQVNFID0gYXJnKCd1cmwnLCAnaHR0cDovLzEyNy4wLjAuMTo4Nzg3Jyk7CmNvbnN0IENPREUgPSBhcmcoJ2NvZGUnLCAnJyk7CmNvbnN0IFRPS0VOID0gYXJnKCd0b2tlbicsICcnKTsKY29uc3QgUE9MTCA9IE51bWJlcihhcmcoJ3BvbGwnLCAxNTAwKSk7CgpmdW5jdGlvbiByZXEobWV0aG9kLCBwLCBib2R5LCBoZWFkZXJzKSB7CiAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgIGNvbnN0IHUgPSBuZXcgVVJMKFVSTF9CQVNFICsgcCk7CiAgICBjb25zdCBkYXRhID0gYm9keSA9PT0gdW5kZWZpbmVkID8gbnVsbCA6IEpTT04uc3RyaW5naWZ5KGJvZHkpOwogICAgY29uc3QgciA9IGh0dHAucmVxdWVzdCh7CiAgICAgIG1ldGhvZCwgaG9zdG5hbWU6IHUuaG9zdG5hbWUsIHBvcnQ6IHUucG9ydCB8fCA4MCwgcGF0aDogdS5wYXRobmFtZSwKICAgICAgaGVhZGVyczogT2JqZWN0LmFzc2lnbih7ICdjb250ZW50LXR5cGUnOiAnYXBwbGljYXRpb24vanNvbicgfSwgZGF0YSA/IHsgJ2NvbnRlbnQtbGVuZ3RoJzogQnVmZmVyLmJ5dGVMZW5ndGgoZGF0YSkgfSA6IHt9LCBoZWFkZXJzIHx8IHt9KSwKICAgIH0sIHJlcyA9PiB7CiAgICAgIGxldCBiID0gJyc7CiAgICAgIHJlcy5vbignZGF0YScsIGMgPT4gYiArPSBjKTsKICAgICAgcmVzLm9uKCdlbmQnLCAoKSA9PiByZXNvbHZlKHsgc3RhdHVzOiByZXMuc3RhdHVzQ29kZSwganNvbjogKCgpID0+IHsgdHJ5IHsgcmV0dXJuIEpTT04ucGFyc2UoYik7IH0gY2F0Y2ggeyByZXR1cm4gbnVsbDsgfSB9KSgpIH0pKTsKICAgIH0pOwogICAgci5vbignZXJyb3InLCByZWplY3QpOwogICAgaWYgKGRhdGEpIHIud3JpdGUoZGF0YSk7CiAgICByLmVuZCgpOwogIH0pOwp9CmNvbnN0IHNsZWVwID0gbXMgPT4gbmV3IFByb21pc2UociA9PiBzZXRUaW1lb3V0KHIsIG1zKSk7CgovKiAtLS0gcnVsZXMgaGVscGVycyAoc2FtZSBjaGVja3MgdGhlIHNlcnZlciBlbmZvcmNlcykgLS0tICovCmZ1bmN0aW9uIGluQihib2FyZCwgeCwgeSkgeyByZXR1cm4geCA+PSAwICYmIHkgPj0gMCAmJiB5IDwgYm9hcmQubGVuZ3RoICYmIHggPCBib2FyZC5sZW5ndGg7IH0KZnVuY3Rpb24gcnVuTGVuKGJvYXJkLCB4LCB5LCBMKSB7CiAgYm9hcmRbeV1beF0gPSBMOwogIGxldCBiZXN0ID0gMDsKICBmb3IgKGNvbnN0IFtkeCwgZHldIG9mIFtbMSwgMF0sIFswLCAxXSwgWzEsIDFdLCBbMSwgLTFdXSkgewogICAgbGV0IG4gPSAxOwogICAgZm9yIChjb25zdCBzZyBvZiBbMSwgLTFdKSB7CiAgICAgIGxldCBweCA9IHggKyBkeCAqIHNnLCBweSA9IHkgKyBkeSAqIHNnOwogICAgICB3aGlsZSAoaW5CKGJvYXJkLCBweCwgcHkpICYmIGJvYXJkW3B5XVtweF0gPT09IEwpIHsgbisrOyBweCArPSBkeCAqIHNnOyBweSArPSBkeSAqIHNnOyB9CiAgICB9CiAgICBiZXN0ID0gTWF0aC5tYXgoYmVzdCwgbik7CiAgfQogIGJvYXJkW3ldW3hdID0gJy4nOwogIHJldHVybiBiZXN0Owp9CmZ1bmN0aW9uIG9wZW5FbmRzKGJvYXJkLCB4LCB5LCBMKSB7CiAgbGV0IGVuZHMgPSAwOwogIGZvciAoY29uc3QgW2R4LCBkeV0gb2YgW1sxLCAwXSwgWzAsIDFdLCBbMSwgMV0sIFsxLCAtMV1dKSB7CiAgICBmb3IgKGNvbnN0IHNnIG9mIFsxLCAtMV0pIHsKICAgICAgbGV0IHB4ID0geCArIGR4ICogc2csIHB5ID0geSArIGR5ICogc2c7CiAgICAgIHdoaWxlIChpbkIoYm9hcmQsIHB4LCBweSkgJiYgYm9hcmRbcHldW3B4XSA9PT0gTCkgeyBweCArPSBkeCAqIHNnOyBweSArPSBkeSAqIHNnOyB9CiAgICAgIGlmIChpbkIoYm9hcmQsIHB4LCBweSkgJiYgYm9hcmRbcHldW3B4XSA9PT0gJy4nKSBlbmRzKys7CiAgICB9CiAgfQogIHJldHVybiBlbmRzOwp9CmZ1bmN0aW9uIGVtcHRpZXMoYm9hcmQpIHsKICBjb25zdCBvdXQgPSBbXTsKICBmb3IgKGxldCB5ID0gMDsgeSA8IGJvYXJkLmxlbmd0aDsgeSsrKSBmb3IgKGxldCB4ID0gMDsgeCA8IGJvYXJkW3ldLmxlbmd0aDsgeCsrKSBpZiAoYm9hcmRbeV1beF0gPT09ICcuJykgb3V0LnB1c2goW3gsIHldKTsKICByZXR1cm4gb3V0Owp9CmZ1bmN0aW9uIHBpY2tXaW4oYm9hcmQsIEwpIHsgICAgICAgICAgIC8vIHByaW9yaXR5IDE6IGNvbXBsZXRlID49NSBteXNlbGYKICBmb3IgKGNvbnN0IFt4LCB5XSBvZiBlbXB0aWVzKGJvYXJkKSkgaWYgKHJ1bkxlbihib2FyZCwgeCwgeSwgTCkgPj0gNSkgcmV0dXJuIFt4LCB5XTsKICByZXR1cm4gbnVsbDsKfQpmdW5jdGlvbiBwaWNrQmxvY2soYm9hcmQsIExzKSB7ICAgICAgIC8vIHByaW9yaXR5IDI6IHN0b3AgYW55IG9wcG9uZW50IHdobyB3b3VsZCBnZXQgPj01CiAgZm9yIChjb25zdCBbeCwgeV0gb2YgZW1wdGllcyhib2FyZCkpCiAgICBmb3IgKGNvbnN0IEwgb2YgTHMpIGlmIChydW5MZW4oYm9hcmQsIHgsIHksIEwpID49IDUpIHJldHVybiBbeCwgeV07CiAgcmV0dXJuIG51bGw7Cn0KZnVuY3Rpb24gcGlja1RocmVlKGJvYXJkLCBMKSB7ICAgICAgICAvLyBwcmlvcml0eSAzOiBleHRlbmQgb3duIGxpbmUgKG9wZW4gdGhyZWUpLCBwcmVmZXIgY2VudGVyIG9uIHRpZXMKICBsZXQgYmVzdCA9IG51bGwsIGJlc3RTY29yZSA9IC0xOwogIGNvbnN0IGMgPSAoYm9hcmQubGVuZ3RoIC0gMSkgLyAyOwogIGZvciAoY29uc3QgW3gsIHldIG9mIGVtcHRpZXMoYm9hcmQpKSB7CiAgICBjb25zdCBsZW4gPSBydW5MZW4oYm9hcmQsIHgsIHksIEwpOwogICAgY29uc3Qgc2NvcmUgPSBsZW4gKiAxMCArIG9wZW5FbmRzKGJvYXJkLCB4LCB5LCBMKSAqIDI7CiAgICBjb25zdCBjZCA9IE1hdGguYWJzKHggLSBjKSArIE1hdGguYWJzKHkgLSBjKTsKICAgIGlmIChzY29yZSA+IGJlc3RTY29yZSB8fCAoc2NvcmUgPT09IGJlc3RTY29yZSAmJiBiZXN0ICYmIGNkIDwgTWF0aC5hYnMoYmVzdFswXSAtIGMpICsgTWF0aC5hYnMoYmVzdFsxXSAtIGMpKSkgewogICAgICBiZXN0U2NvcmUgPSBzY29yZTsgYmVzdCA9IFt4LCB5XTsKICAgIH0KICB9CiAgcmV0dXJuIGJlc3Q7Cn0KCmFzeW5jIGZ1bmN0aW9uIG1haW4oKSB7CiAgaWYgKCFDT0RFIHx8ICFUT0tFTikgeyBjb25zb2xlLmVycm9yKCd1c2FnZTogLS11cmwgLS1jb2RlIC0tdG9rZW4gWy0tcG9sbF0nKTsgcHJvY2Vzcy5leGl0KDIpOyB9CiAgLy8gam9pbjogY3JlYXRpb24tdGltZSBzZWF0VG9rZW4gaXMgdGhlIGNyZWRlbnRpYWw7IHNjYW4gc2VhdHMgdG8gZmluZCB0aGUgb25lIG91ciB0b2tlbiBvd25zLgogIGxldCBteVNlYXQgPSAtMTsKICBmb3IgKGxldCBzID0gMDsgcyA8PSAzOyBzKyspIHsKICAgIGNvbnN0IHIgPSBhd2FpdCByZXEoJ1BPU1QnLCAnL2FwaS9nYW1lcy8nICsgQ09ERSArICcvam9pbicsIHsgc2VhdDogcywgc2VhdFRva2VuOiBUT0tFTiB9KTsKICAgIGlmIChyLnN0YXR1cyA9PT0gMjAwKSB7IG15U2VhdCA9IHM7IGJyZWFrOyB9CiAgfQogIGlmIChteVNlYXQgPCAwKSB7IGNvbnNvbGUuZXJyb3IoJ2pvaW4gZmFpbGVkOiBzZWF0VG9rZW4gbm90IHZhbGlkIGZvciBnYW1lJywgQ09ERSk7IHByb2Nlc3MuZXhpdCgxKTsgfQogIGNvbnN0IHN0MCA9IGF3YWl0IHJlcSgnR0VUJywgJy9hcGkvZ2FtZXMvJyArIENPREUpOwogIGNvbnN0IG15Q29sb3IgPSBzdDAuanNvbi5wbGF5ZXJzW215U2VhdF0uY29sb3I7CiAgY29uc3QgTCA9ICh7IHJlZDogJ1InLCBibHVlOiAnQicsIGdyZWVuOiAnRycsIHllbGxvdzogJ1knIH0pW215Q29sb3JdOwogIGNvbnNvbGUubG9nKGBbYm90IHNlYXQgJHtteVNlYXR9ICR7bXlDb2xvcn1dIG9ubGluZSwgcG9sbGluZyBldmVyeSAke1BPTEx9bXNgKTsKCiAgZm9yICg7OykgewogICAgY29uc3QgciA9IGF3YWl0IHJlcSgnR0VUJywgJy9hcGkvZ2FtZXMvJyArIENPREUpOwogICAgaWYgKHIuc3RhdHVzICE9PSAyMDApIHsgYXdhaXQgc2xlZXAoUE9MTCk7IGNvbnRpbnVlOyB9CiAgICBjb25zdCBzdCA9IHIuanNvbjsKICAgIGlmIChzdC5zdGF0dXMgIT09ICdwbGF5aW5nJykgeyBjb25zb2xlLmxvZyhgW2JvdCBzZWF0ICR7bXlTZWF0fSAke215Q29sb3J9XSBnYW1lIGZpbmlzaGVkOiAke3N0LnN0YXR1c31gKTsgcmV0dXJuOyB9CiAgICBpZiAoc3QudHVybiAhPT0gbXlDb2xvcikgeyBhd2FpdCBzbGVlcChQT0xMKTsgY29udGludWU7IH0KICAgIGNvbnN0IG9wcEwgPSBzdC5wbGF5ZXJzLmZpbHRlcihwbCA9PiAhcGwucmVzaWduZWQgJiYgcGwuY29sb3IgIT09IG15Q29sb3IpLm1hcChwbCA9PiAoeyBCOiAnQicsIFI6ICdSJywgRzogJ0cnLCBZOiAnWScgfSlbcGwuY29sb3JbMF0udG9VcHBlckNhc2UoKV0pOwogICAgY29uc3QgYm9hcmQgPSBzdC5ib2FyZDsKICAgIGNvbnN0IG12ID0gcGlja1dpbihib2FyZCwgTCkgfHwgcGlja0Jsb2NrKGJvYXJkLCBvcHBMKSB8fCBwaWNrVGhyZWUoYm9hcmQsIEwpOwogICAgaWYgKCFtdikgeyBjb25zb2xlLmxvZygnW2JvdF0gbm8gbGVnYWwgbW92ZSBsZWZ0OyByZXNpZ25pbmcnKTsgYXdhaXQgcmVxKCdQT1NUJywgJy9hcGkvZ2FtZXMvJyArIENPREUgKyAnL3Jlc2lnbicsIHt9LCB7IGF1dGhvcml6YXRpb246ICdCZWFyZXIgJyArIFRPS0VOIH0pOyByZXR1cm47IH0KICAgIGNvbnN0IG1yID0gYXdhaXQgcmVxKCdQT1NUJywgJy9hcGkvZ2FtZXMvJyArIENPREUgKyAnL21vdmVzJywgeyB4OiBtdlswXSwgeTogbXZbMV0gfSwgeyBhdXRob3JpemF0aW9uOiAnQmVhcmVyICcgKyBUT0tFTiB9KTsKICAgIGlmIChtci5zdGF0dXMgIT09IDIwMCkgY29uc29sZS5lcnJvcignW2JvdF0gbW92ZSByZWplY3RlZDonLCBtci5zdGF0dXMsIG1yLmpzb24gJiYgbXIuanNvbi5lcnJvcik7CiAgICBhd2FpdCBzbGVlcChNYXRoLm1pbihQT0xMLCA0MDApKTsKICB9Cn0KbWFpbigpLmNhdGNoKGUgPT4geyBjb25zb2xlLmVycm9yKCdbYm90XSBmYXRhbDonLCBlLm1lc3NhZ2UpOyBwcm9jZXNzLmV4aXQoMSk7IH0pOwo=
+'use strict';
+/*
+ * Line-up Five — sample bot (public API player).
+ *
+ * This file is the executable API documentation. It shows how any client
+ * (bot or scripted player) plays a game using only the public HTTP API.
+ *
+ * Decision priority (per game spec "bot fill-in":
+ *   1) if placing a stone here completes MY five-in-a-row (>=5) -> play it (win now).
+ *   2) else if an opponent would complete five-in-a-row at a cell -> occupy it (block).
+ *   3) else make my own "open three" (extend my line; prefer highest run + open ends).
+ *   fallback: nearest empty cell to board center.
+ *
+ * Usage:
+ *   node bot/sample_bot.js --url http://HOST:PORT --code <6-CODE> --token <seatToken> [--poll 1500]
+ *
+ * The seatToken is issued by the server at game creation (POST /api/games);
+ * the bot confirms its seat via POST /api/games/<code>/join (no new token: the
+ * creation-time token IS the credential).
+ */
+const http = require('node:http');
+
+const args = process.argv.slice(2);
+function arg(name, dflt) {
+  const i = args.indexOf('--' + name);
+  return i >= 0 ? args[i + 1] : dflt;
+}
+const URL_BASE = arg('url', 'http://127.0.0.1:8787');
+const CODE = arg('code', '');
+const TOKEN = arg('token', '');
+const POLL = Number(arg('poll', 1500));
+
+function req(method, p, body, headers) {
+  return new Promise((resolve, reject) => {
+    const u = new URL(URL_BASE + p);
+    const data = body === undefined ? null : JSON.stringify(body);
+    const r = http.request({
+      method, hostname: u.hostname, port: u.port || 80, path: u.pathname,
+      headers: Object.assign({ 'content-type': 'application/json' }, data ? { 'content-length': Buffer.byteLength(data) } : {}, headers || {}),
+    }, res => {
+      let b = '';
+      res.on('data', c => b += c);
+      res.on('end', () => resolve({ status: res.statusCode, json: (() => { try { return JSON.parse(b); } catch { return null; } })() }));
+    });
+    r.on('error', reject);
+    if (data) r.write(data);
+    r.end();
+  });
+}
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+
+/* --- rules helpers (same checks the server enforces) --- */
+function inB(board, x, y) { return x >= 0 && y >= 0 && y < board.length && x < board.length; }
+function runLen(board, x, y, L) {
+  board[y][x] = L;
+  let best = 0;
+  for (const [dx, dy] of [[1, 0], [0, 1], [1, 1], [1, -1]]) {
+    let n = 1;
+    for (const sg of [1, -1]) {
+      let px = x + dx * sg, py = y + dy * sg;
+      while (inB(board, px, py) && board[py][px] === L) { n++; px += dx * sg; py += dy * sg; }
+    }
+    best = Math.max(best, n);
+  }
+  board[y][x] = '.';
+  return best;
+}
+function openEnds(board, x, y, L) {
+  let ends = 0;
+  for (const [dx, dy] of [[1, 0], [0, 1], [1, 1], [1, -1]]) {
+    for (const sg of [1, -1]) {
+      let px = x + dx * sg, py = y + dy * sg;
+      while (inB(board, px, py) && board[py][px] === L) { px += dx * sg; py += dy * sg; }
+      if (inB(board, px, py) && board[py][px] === '.') ends++;
+    }
+  }
+  return ends;
+}
+function empties(board) {
+  const out = [];
+  for (let y = 0; y < board.length; y++) for (let x = 0; x < board[y].length; x++) if (board[y][x] === '.') out.push([x, y]);
+  return out;
+}
+function pickWin(board, L) {           // priority 1: complete >=5 myself
+  for (const [x, y] of empties(board)) if (runLen(board, x, y, L) >= 5) return [x, y];
+  return null;
+}
+function pickBlock(board, Ls) {       // priority 2: stop any opponent who would get >=5
+  for (const [x, y] of empties(board))
+    for (const L of Ls) if (runLen(board, x, y, L) >= 5) return [x, y];
+  return null;
+}
+function pickThree(board, L) {        // priority 3: extend own line (open three), prefer center on ties
+  let best = null, bestScore = -1;
+  const c = (board.length - 1) / 2;
+  for (const [x, y] of empties(board)) {
+    const len = runLen(board, x, y, L);
+    const score = len * 10 + openEnds(board, x, y, L) * 2;
+    const cd = Math.abs(x - c) + Math.abs(y - c);
+    if (score > bestScore || (score === bestScore && best && cd < Math.abs(best[0] - c) + Math.abs(best[1] - c))) {
+      bestScore = score; best = [x, y];
+    }
+  }
+  return best;
+}
+
+async function main() {
+  if (!CODE || !TOKEN) { console.error('usage: --url --code --token [--poll]'); process.exit(2); }
+  // join: creation-time seatToken is the credential; scan seats to find the one our token owns.
+  let mySeat = -1;
+  for (let s = 0; s <= 3; s++) {
+    const r = await req('POST', '/api/games/' + CODE + '/join', { seat: s, seatToken: TOKEN });
+    if (r.status === 200) { mySeat = s; break; }
+  }
+  if (mySeat < 0) { console.error('join failed: seatToken not valid for game', CODE); process.exit(1); }
+  const st0 = await req('GET', '/api/games/' + CODE);
+  const myColor = st0.json.players[mySeat].color;
+  const L = ({ red: 'R', blue: 'B', green: 'G', yellow: 'Y' })[myColor];
+  console.log(`[bot seat ${mySeat} ${myColor}] online, polling every ${POLL}ms`);
+
+  for (;;) {
+    const r = await req('GET', '/api/games/' + CODE);
+    if (r.status !== 200) { await sleep(POLL); continue; }
+    const st = r.json;
+    if (st.status !== 'playing') { console.log(`[bot seat ${mySeat} ${myColor}] game finished: ${st.status}`); return; }
+    if (st.turn !== myColor) { await sleep(POLL); continue; }
+    const oppL = st.players.filter(pl => !pl.resigned && pl.color !== myColor).map(pl => ({ B: 'B', R: 'R', G: 'G', Y: 'Y' })[pl.color[0].toUpperCase()]);
+    const board = st.board;
+    const mv = pickWin(board, L) || pickBlock(board, oppL) || pickThree(board, L);
+    if (!mv) { console.log('[bot] no legal move left; resigning'); await req('POST', '/api/games/' + CODE + '/resign', {}, { authorization: 'Bearer ' + TOKEN }); return; }
+    const mr = await req('POST', '/api/games/' + CODE + '/moves', { x: mv[0], y: mv[1] }, { authorization: 'Bearer ' + TOKEN });
+    if (mr.status !== 200) console.error('[bot] move rejected:', mr.status, mr.json && mr.json.error);
+    await sleep(Math.min(POLL, 400));
+  }
+}
+main().catch(e => { console.error('[bot] fatal:', e.message); process.exit(1); });

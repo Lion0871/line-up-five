@@ -1,1 +1,41 @@
-IyBMaW5lLXVwIEZpdmXvvIjkupTlrZDov57nur/vvIkKCioq6KeE5YiZ5LiA5Y+l6K+dKirvvJoxM8OXMTMg5YWx5Lqr5qOL55uY77yMMn40IOS6uu+8iOe6ouiTnee7v+m7hO+8ieiHqueUsea3t+aImOKAlOKAlOavj+WbnuWQiOWcqOepuuagvOaUviAxIOWtkO+8jOWFiOWcqOS7u+aEj+aWueWQke+8iOaoqi/nq5Yv5pac77yJ6L+e5oiQIOKJpTUg6ICF6IOc77yb5qOL55uY5aGr5ruh44CB5oiW5q+P5Lq65ZCE5LiL5ruhIDQwIOaJi+S7jeacqui/nuS6lOWImeW5s+WxgO+8m+aXoOemgeaJi+OAgeaXoOaNouWQjuaJi++8iOWNs+KAnOaXoOemgeaJi+S6lOebruOAgTQg5Lq66Ieq55Sx5re35oiY4oCd77yJ77yM5byA5bGA6aKc6Imy55Sx5Yib5bu65a+55bGA5pe25oyH5a6a77yI6buY6K6k57qi5YWI77yJ44CCCgrpm7bkvp3otZbnuq8gTm9kZS5qcyDiiaUyMu+8iOWFqOmDqCBzdGRsaWLvvInvvIzml6DnmbvlvZXjgIHml6Dlronoo4XljbPlj6/lvIDnjqnvvIjmiYvmnLrmtY/op4jlmajmiZPlvIDpppbpobXljbPlj6/vvInvvIzmnI3liqHlmajph43lkK/kuI3kuKLlsYDjgIIKCiMjIOi3kei1t+adpe+8iOWuueWZqOeJiO+8jOS6pOS7mOinhOeoi++8iQpgYGBiYXNoCiMg5Luj56CB55uu5b2VID0gZG9ja2VyIOWNt+aMgui9veadpea6kCBnYW1ld29yazovd29yawpkb2NrZXIgcnVuIC0tcm0gLXAgODc4Nzo4Nzg3IC0tbWVtb3J5IDJnIC0tY3B1cyAyIC0tcmVhZC1vbmx5IFwKICAtLXRtcGZzIC90bXAgLS10bXBmcyAvaG9tZS9ub2RlLy5jYWNoZSBcCiAgLXYgZ2FtZXdvcms6L3dvcmsgLXcgL3dvcmsgZ2lnYm94OjIgbm9kZSBhcHAvc2VydmVyLmpzCiMg5rWP6KeI5Zmo5omT5byAIGh0dHA6Ly88aG9zdD46ODc4Ny8gICDvvIjlpKfljoXlu7rlsYAv5Yqg5YWl56CB5YiG5Lqr6ZO+5o6l77yM5omL5py65Y+v55So77yJCmBgYAoK6KO45py655u05o6l6LeR77yaYFBPUlQ9ODc4NyBub2RlIGFwcC9zZXJ2ZXIuanNg77yI5a+55bGA5paH5Lu26Ieq5Yqo6K+75YaZIGB2YXIvZ2FtZXMvYO+8ieOAggoKIyMg546pIGJvdCDooaXkvY0K5Yib5bu65a+55bGA5pe26YCJ4oCc6YOo5YiG5bqn5L2N5oyCIGJvdOKAne+8jOacjeWKoeWZqOiHquWKqOihpeS9je+8jOeEtuWQjuaKiiBzYW1wbGUgYm90IOaMguWIsCBib3Qg5bqn5L2N5LiK77yIc2FtcGxlX2JvdCDljbPlhazlvIAgQVBJIOeahOWPr+aJp+ihjOagt+S+i++8muKRoOaIkDUg4pGh5aC1NSDikaLpgKDmtLvkuInvvInvvJoKYGBgYmFzaApub2RlIGJvdC9zYW1wbGVfYm90LmpzIC0tdXJsIGh0dHA6Ly88aG9zdD46ODc4NyAtLWNvZGUgPOWKoOWFpeeggT4gLS10b2tlbiA86K+l5bqn5L2Nc2VhdFRva2VuPgpgYGAKCiMjIEFQSSDkuI7mtYvor5UKLSDlhajpg6jnq6/ngrnkuI4gY3VybCDnpLrkvovop4EgW2RvY3MvQVBJLm1kXShkb2NzL0FQSS5tZCnvvIjlnKjnur/niYjvvJpgR0VUIC9kb2NzYO+8ieOAggotIOerr+WIsOerr+a1i+ivle+8iOWuueWZqOWGheecn+Wunui3kemAmuS4gOWxgO+8muiQveWtkOagoemqjOOAgei/nuS6lOWIpOWumuOAgXJlcGxheeOAgemHjeWQr+aBouWkjeOAgTQyOeOAgeiupOi+k++8ie+8mgpgYGBiYXNoCmRvY2tlciBydW4gLS1ybSAtLW1lbW9yeSAyZyAtLWNwdXMgMiAtLXJlYWQtb25seSAtLXRtcGZzIC90bXAgLS10bXBmcyAvaG9tZS9ub2RlLy5jYWNoZSBcCiAgLXYgZ2FtZXdvcms6L3dvcmsgLXcgL3dvcmsgZ2lnYm94OjIgYmFzaCB0ZXN0cy9wbGF5X3Rlc3Quc2gKYGBgCgojIyDnm67lvZUKYGBgCmFwcC9zZXJ2ZXIuanMgICAgICAgICAgICDmnYPlqIHmuLjmiI/mnI3liqHlmajvvIhIVFRQL0pTT04gQVBJ77yJCmFwcC9wdWJsaWMve2luZGV4LHN0eWxlLGFwcH0g57qvIHZhbmlsbGEg5YmN56uv77yI5rex6Imy5Li76aKY44CB6Kem5bGP5Y+L5aW944CB6IOc57q/6auY5Lqu77yJCmJvdC9zYW1wbGVfYm90LmpzICAgICAgICDlhazlvIAgQVBJIOeOqeWutuagt+S+i++8iOWGs+etliDikaDmiJA1IOKRoeWgtTUg4pGi5rS75LiJ77yJCmRvY3MvQVBJLm1kICAgICAgICAgICAgICDnq6/ngrnmlofmoaMgKyBjdXJsIOekuuS+iwp0ZXN0cy9wbGF5X3Rlc3Quc2ggICAgICAg56uv5Yiw56uv5rWL6K+V77ybdGVzdHMvY2xpZW50X3BsYXllci5qcyDmtYvor5XnlKjohJrmnKzluqfkvY3lrqLmiLfnq68KdmFyL2dhbWVzLyouanNvbiAgICAgICAgIOWvueWxgOiQveebmO+8iOmHjeWQr+ivu+Wbnu+8iQpWRVJTSU9OICAgICAgICAgICAgICAgICAgYXBwIOeJiOacrApgYGAK
+# Line-up Five（五子连线）
+
+**规则一句话**：13×13 共享棋盘，2~4 人（红蓝绿黄）自由混战——每回合在空格放 1 子，先在任意方向（横/竖/斜）连成 ≥5 者胜；棋盘填满、或每人各下满 40 手仍未连五则平局；无禁手、无换后手（即“无禁手五目、4 人自由混战”），开局颜色由创建对局时指定（默认红先）。
+
+零依赖纯 Node.js ≥22（全部 stdlib），无登录、无安装即可开玩（手机浏览器打开首页即可），服务器重启不丢局。
+
+## 跑起来（容器版，交付规程）
+```bash
+# 代码目录 = docker 卷挂载来源 gamework:/work
+docker run --rm -p 8787:8787 --memory 2g --cpus 2 --read-only \
+  --tmpfs /tmp --tmpfs /home/node/.cache \
+  -v gamework:/work -w /work gigbox:2 node app/server.js
+# 浏览器打开 http://<host>:8787/   （大厅建局/加入码分享链接，手机可用）
+```
+
+裸机直接跑：`PORT=8787 node app/server.js`（对局文件自动读写 `var/games/`）。
+
+## 玩 bot 补位
+创建对局时选“部分座位挂 bot”，服务器自动补位，然后把 sample bot 挂到 bot 座位上（sample_bot 即公开 API 的可执行样例：①成5 ②堵5 ③造活三）：
+```bash
+node bot/sample_bot.js --url http://<host>:8787 --code <加入码> --token <该座位seatToken>
+```
+
+## API 与测试
+- 全部端点与 curl 示例见 [docs/API.md](docs/API.md)（在线版：`GET /docs`）。
+- 端到端测试（容器内真实跑通一局：落子校验、连五判定、replay、重启恢复、429、认输）：
+```bash
+docker run --rm --memory 2g --cpus 2 --read-only --tmpfs /tmp --tmpfs /home/node/.cache \
+  -v gamework:/work -w /work gigbox:2 bash tests/play_test.sh
+```
+
+## 目录
+```
+app/server.js            权威游戏服务器（HTTP/JSON API）
+app/public/{index,style,app} 纯 vanilla 前端（深色主题、触屏友好、胜线高亮）
+bot/sample_bot.js        公开 API 玩家样例（决策 ①成5 ②堵5 ③活三）
+docs/API.md              端点文档 + curl 示例
+tests/play_test.sh       端到端测试；tests/client_player.js 测试用脚本座位客户端
+var/games/*.json         对局落盘（重启读回）
+VERSION                  app 版本
+```
